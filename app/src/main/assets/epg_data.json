@@ -3,34 +3,34 @@
     {
       "tvid": "1",
       "epgid": "CCTV1",
-      "name": "CCTV-1综合,CCTV-1,CCTV1,CCTV1综合",
+      "name": "CCTV-1综合,CCTV-1,CCTV1,CCTV1综合,CCTV 1",
       "status": "1",
       "note": "CCTV-1综合",
-      "logo": "https://live.fanmingming.com/tv/CCTV1.png"
+      "logo": "https://assets.livednow.com/logo/CCTV1.png"
     },
     {
       "tvid": "2",
       "epgid": "CCTV2",
-      "name": "CCTV-2财经,CCTV-2,CCTV2,CCTV2财经",
+      "name": "CCTV-2财经,CCTV-2,CCTV2,CCTV2财经,CCTV 2",
       "status": "1",
       "note": "CCTV-2财经",
-      "logo": "https://live.fanmingming.com/tv/CCTV2.png"
+      "logo": "https://assets.livednow.com/logo/CCTV2.png"
     },
     {
       "tvid": "3",
       "epgid": "CCTV3",
-      "name": "CCTV-3综艺,CCTV-3,CCTV3,CCTV3综艺",
+      "name": "CCTV-3综艺,CCTV-3,CCTV3,CCTV3综艺,CCTV 3",
       "status": "1",
       "note": "CCTV-3综艺",
-      "logo": "https://live.fanmingming.com/tv/CCTV3.png"
+      "logo": "https://assets.livednow.com/logo/CCTV3.png"
     },
     {
       "tvid": "4",
       "epgid": "CCTV4",
-      "name": "CCTV-4中文国际,CCTV-4,CCTV4,CCTV4中文国际,",
+      "name": "CCTV-4中文国际,CCTV-4,CCTV4,CCTV4中文国际,CCTV 4",
       "status": "1",
       "note": "CCTV-4中文国际",
-      "logo": "https://live.fanmingming.com/tv/CCTV4.png"
+      "logo": "https://assets.livednow.com/logo/CCTV4.png"
     },
     {
       "tvid": "5",
@@ -38,7 +38,7 @@
       "name": "CCTV-4中文国际欧洲,CCTV-4欧洲,CCTV4欧洲,CCTV4中文国际欧洲,CCTV-4中文国际 欧洲",
       "status": "1",
       "note": "CCTV-4中文国际欧洲",
-      "logo": "https://live.fanmingming.com/tv/CCTV4欧洲.png"
+      "logo": "https://assets.livednow.com/logo/CCTV4-欧洲.png"
     },
     {
       "tvid": "6",
@@ -46,135 +46,135 @@
       "name": "CCTV-4中文国际美洲,CCTV-4美洲,CCTV4美洲,CCTV4中文国际美洲,CCTV-4中文国际 美洲",
       "status": "1",
       "note": "CCTV-4中文国际美洲",
-      "logo": "https://live.fanmingming.com/tv/CCTV4美洲.png"
+      "logo": "https://assets.livednow.com/logo/CCTV4-美洲.png"
     },
     {
       "tvid": "7",
       "epgid": "CCTV5",
-      "name": "CCTV-5体育,CCTV-5,CCTV5,CCTV5体育",
+      "name": "CCTV-5体育,CCTV-5,CCTV5,CCTV5体育,CCTV 5",
       "status": "1",
       "note": "CCTV-5体育",
-      "logo": "https://live.fanmingming.com/tv/CCTV5.png"
+      "logo": "https://assets.livednow.com/logo/CCTV5.png"
     },
     {
       "tvid": "8",
       "epgid": "CCTV5+",
-      "name": "CCTV-5+体育赛事,CCTV-5+,CCTV5+,CCTV5+体育赛事",
+      "name": "CCTV-5+体育赛事,CCTV-5+,CCTV5+,CCTV5+体育赛事,CCTV 5+",
       "status": "1",
       "note": "CCTV-5+体育赛事",
-      "logo": "https://live.fanmingming.com/tv/CCTV5+.png"
+      "logo": "https://assets.livednow.com/logo/CCTV5-plus.png"
     },
     {
       "tvid": "9",
       "epgid": "CCTV6",
-      "name": "CCTV-6电影,CCTV-6,CCTV6,CCTV6电影",
+      "name": "CCTV-6电影,CCTV-6,CCTV6,CCTV6电影,CCTV 6",
       "status": "1",
       "note": "CCTV-6电影",
-      "logo": "https://live.fanmingming.com/tv/CCTV6.png"
+      "logo": "https://assets.livednow.com/logo/CCTV6.png"
     },
     {
       "tvid": "10",
       "epgid": "CCTV7",
-      "name": "CCTV-7国防军事,CCTV-7,CCTV7,CCTV7国防军事",
+      "name": "CCTV-7国防军事,CCTV-7,CCTV7,CCTV7国防军事,CCTV 7",
       "status": "1",
       "note": "CCTV-7国防军事",
-      "logo": "https://live.fanmingming.com/tv/CCTV7.png"
+      "logo": "https://assets.livednow.com/logo/CCTV7.png"
     },
     {
       "tvid": "11",
       "epgid": "CCTV8",
-      "name": "CCTV-8电视剧,CCTV-8,CCTV8,CCTV8电视剧",
+      "name": "CCTV-8电视剧,CCTV-8,CCTV8,CCTV8电视剧,CCTV 8",
       "status": "1",
       "note": "CCTV-8电视剧",
-      "logo": "https://live.fanmingming.com/tv/CCTV8.png"
+      "logo": "https://assets.livednow.com/logo/CCTV8.png"
     },
     {
       "tvid": "12",
       "epgid": "CCTV9",
-      "name": "CCTV-9纪录,CCTV-9,CCTV9,CCTV9纪录",
+      "name": "CCTV-9纪录,CCTV-9,CCTV9,CCTV9纪录,CCTV 9",
       "status": "1",
       "note": "CCTV-9纪录",
-      "logo": "https://live.fanmingming.com/tv/CCTV9.png"
+      "logo": "https://assets.livednow.com/logo/CCTV9.png"
     },
     {
       "tvid": "13",
       "epgid": "CCTV10",
-      "name": "CCTV-10科教,CCTV-10,CCTV10,CCTV10科教",
+      "name": "CCTV-10科教,CCTV-10,CCTV10,CCTV10科教,CCTV 10",
       "status": "1",
       "note": "CCTV-10科教",
-      "logo": "https://live.fanmingming.com/tv/CCTV10.png"
+      "logo": "https://assets.livednow.com/logo/CCTV10.png"
     },
     {
       "tvid": "14",
       "epgid": "CCTV11",
-      "name": "CCTV-11戏曲,CCTV-11,CCTV11,CCTV11戏曲",
+      "name": "CCTV-11戏曲,CCTV-11,CCTV11,CCTV11戏曲,CCTV 11",
       "status": "1",
       "note": "CCTV-11戏曲",
-      "logo": "https://live.fanmingming.com/tv/CCTV11.png"
+      "logo": "https://assets.livednow.com/logo/CCTV11.png"
     },
     {
       "tvid": "15",
       "epgid": "CCTV12",
-      "name": "CCTV-12社会与法,CCTV-12,CCTV12,CCTV12社会与法",
+      "name": "CCTV-12社会与法,CCTV-12,CCTV12,CCTV12社会与法,CCTV 12",
       "status": "1",
       "note": "CCTV-12社会与法",
-      "logo": "https://live.fanmingming.com/tv/CCTV12.png"
+      "logo": "https://assets.livednow.com/logo/CCTV12.png"
     },
     {
       "tvid": "16",
       "epgid": "CCTV13",
-      "name": "CCTV-13新闻,CCTV-13,CCTV13,CCTV13新闻",
+      "name": "CCTV-13新闻,CCTV-13,CCTV13,CCTV13新闻,CCTV 13",
       "status": "1",
       "note": "CCTV-13新闻",
-      "logo": "https://live.fanmingming.com/tv/CCTV13.png"
+      "logo": "https://assets.livednow.com/logo/CCTV13.png"
     },
     {
       "tvid": "17",
       "epgid": "CCTV14",
-      "name": "CCTV-14少儿,CCTV-14,CCTV14,CCTV14少儿",
+      "name": "CCTV-14少儿,CCTV-14,CCTV14,CCTV14少儿,CCTV 14",
       "status": "1",
       "note": "CCTV-14少儿",
-      "logo": "https://live.fanmingming.com/tv/CCTV14.png"
+      "logo": "https://assets.livednow.com/logo/CCTV14.png"
     },
     {
       "tvid": "18",
       "epgid": "CCTV15",
-      "name": "CCTV-15音乐,CCTV-15,CCTV15,CCTV15音乐",
+      "name": "CCTV-15音乐,CCTV-15,CCTV15,CCTV15音乐,CCTV 15",
       "status": "1",
       "note": "CCTV-15音乐",
-      "logo": "https://live.fanmingming.com/tv/CCTV15.png"
+      "logo": "https://assets.livednow.com/logo/CCTV15.png"
     },
     {
       "tvid": "19",
       "epgid": "CCTV16",
-      "name": "CCTV-16奥林匹克,CCTV-16,CCTV16,CCTV16奥林匹克",
+      "name": "CCTV-16奥林匹克,CCTV-16,CCTV16,CCTV16奥林匹克,CCTV 16,CCTV 16 4K",
       "status": "1",
       "note": "CCTV-16奥林匹克",
-      "logo": "https://live.fanmingming.com/tv/CCTV16.png"
+      "logo": "https://assets.livednow.com/logo/CCTV16.png"
     },
     {
       "tvid": "20",
       "epgid": "CCTV17",
-      "name": "CCTV-17农业农村,CCTV-17,CCTV17,CCTV17农业农村",
+      "name": "CCTV-17农业农村,CCTV-17,CCTV17,CCTV17农业农村,CCTV 17",
       "status": "1",
       "note": "CCTV-17农业农村",
-      "logo": "https://live.fanmingming.com/tv/CCTV17.png"
+      "logo": "https://assets.livednow.com/logo/CCTV17.png"
     },
     {
       "tvid": "21",
       "epgid": "CCTV4K",
-      "name": "CCTV4K,CCTV4K超高清,CCTV-4K,CCTV-4K超高清",
+      "name": "CCTV4K,CCTV4K超高清,CCTV-4K,CCTV-4K超高清,CCTV 4K",
       "status": "1",
       "note": "CCTV-4K超高清",
-      "logo": "https://live.fanmingming.com/tv/CCTV4K.png"
+      "logo": "https://assets.livednow.com/logo/CCTV-4K.png"
     },
     {
       "tvid": "22",
       "epgid": "CCTV8K",
-      "name": "CCTV8K,CCTV8K超高清,CCTV-8K,CCTV-8K超高清",
+      "name": "CCTV8K,CCTV8K超高清,CCTV-8K,CCTV-8K超高清,CCTV 8K",
       "status": "1",
       "note": "CCTV-8K超高清",
-      "logo": "https://live.fanmingming.com/tv/CCTV8K.png"
+      "logo": "https://assets.livednow.com/logo/CCTV-8K.png"
     },
     {
       "tvid": "23",
@@ -182,175 +182,175 @@
       "name": "CGTN,CGTN英语",
       "status": "1",
       "note": "CGTN",
-      "logo": "https://live.fanmingming.com/tv/CGTN.png"
+      "logo": "https://assets.livednow.com/logo/CGTN.png"
     },
     {
       "tvid": "24",
       "epgid": "CGTN俄语",
-      "name": "CGTNRussian,CGTN俄语",
+      "name": "CGTNRussian,CGTN俄语,CGTN 俄语",
       "status": "1",
       "note": "CGTN俄语",
-      "logo": "https://live.fanmingming.com/tv/CGTN俄语.png"
+      "logo": "https://assets.livednow.com/logo/CGTN-俄语.png"
     },
     {
       "tvid": "25",
       "epgid": "CGTN法语",
-      "name": "CGTNFrench,CGTN法语",
+      "name": "CGTNFrench,CGTN法语,CGTN 法语",
       "status": "1",
       "note": "CGTN法语",
-      "logo": "https://live.fanmingming.com/tv/CGTN法语.png"
+      "logo": "https://assets.livednow.com/logo/CGTN-法语.png"
     },
     {
       "tvid": "26",
       "epgid": "CGTN纪录",
-      "name": "CGTNDocumentary,CGTN纪录",
+      "name": "CGTNDocumentary,CGTN纪录,CGTN 外语纪录",
       "status": "1",
       "note": "CGTN纪录",
-      "logo": "https://live.fanmingming.com/tv/CGTN纪录.png"
+      "logo": "https://assets.livednow.com/logo/CGTN-纪录.png"
     },
     {
       "tvid": "27",
       "epgid": "CGTN西语",
-      "name": "CGTNSpanish,CGTN西语,CGTN西班牙语",
+      "name": "CGTNSpanish,CGTN西语,CGTN西班牙语,CGTN 西班牙语",
       "status": "1",
       "note": "CGTN西语",
-      "logo": "https://live.fanmingming.com/tv/CGTN西语.png"
+      "logo": "https://assets.livednow.com/logo/CGTN-西班牙语.png"
     },
     {
       "tvid": "28",
       "epgid": "CGTN阿语",
-      "name": "CGTNArabic,CGTN阿语,CGTN阿拉伯语",
+      "name": "CGTNArabic,CGTN阿语,CGTN阿拉伯语,CGTN 阿拉伯语",
       "status": "1",
       "note": "CGTN阿语",
-      "logo": "https://live.fanmingming.com/tv/CGTN阿语.png"
+      "logo": "https://assets.livednow.com/logo/CGTN-阿拉伯语.png"
     },
     {
       "tvid": "29",
       "epgid": "电视指南",
-      "name": "电视指南,CCTV电视指南",
+      "name": "电视指南,CCTV电视指南,CCTV 电视指南",
       "status": "1",
       "note": "电视指南",
-      "logo": "https://live.fanmingming.com/tv/电视指南.png"
+      "logo": "https://assets.livednow.com/logo/CCTV-电视指南.png"
     },
     {
       "tvid": "30",
       "epgid": "风云剧场",
-      "name": "风云剧场,CCTV风云剧场",
+      "name": "风云剧场,CCTV风云剧场,CCTV 风云剧场",
       "status": "1",
       "note": "风云剧场",
-      "logo": "https://live.fanmingming.com/tv/风云剧场.png"
+      "logo": "https://assets.livednow.com/logo/CCTV-风云剧场.png"
     },
     {
       "tvid": "31",
       "epgid": "风云足球",
-      "name": "风云足球,CCTV风云足球",
+      "name": "风云足球,CCTV风云足球,CCTV 风云足球",
       "status": "1",
       "note": "风云足球",
-      "logo": "https://live.fanmingming.com/tv/风云足球.png"
+      "logo": "https://assets.livednow.com/logo/CCTV-风云足球.png"
     },
     {
       "tvid": "32",
       "epgid": "风云音乐",
-      "name": "风云音乐,CCTV风云音乐",
+      "name": "风云音乐,CCTV风云音乐,CCTV 风云音乐",
       "status": "1",
       "note": "风云音乐",
-      "logo": "https://live.fanmingming.com/tv/风云音乐.png"
+      "logo": "https://assets.livednow.com/logo/CCTV-风云音乐.png"
     },
     {
       "tvid": "33",
       "epgid": "第一剧场",
-      "name": "第一剧场,CCTV第一剧场",
+      "name": "第一剧场,CCTV第一剧场,CCTV 第一剧场",
       "status": "1",
       "note": "第一剧场",
-      "logo": "https://live.fanmingming.com/tv/第一剧场.png"
+      "logo": "https://assets.livednow.com/logo/CCTV-第一剧场.png"
     },
     {
       "tvid": "34",
       "epgid": "世界地理",
-      "name": "世界地理,CCTV世界地理",
+      "name": "世界地理,CCTV世界地理,CCTV 世界地理",
       "status": "1",
       "note": "世界地理",
-      "logo": "https://live.fanmingming.com/tv/世界地理.png"
+      "logo": "https://assets.livednow.com/logo/CCTV-世界地理.png"
     },
     {
       "tvid": "35",
       "epgid": "怀旧剧场",
-      "name": "怀旧剧场,CCTV怀旧剧场",
+      "name": "怀旧剧场,CCTV怀旧剧场,CCTV 怀旧剧场",
       "status": "1",
       "note": "怀旧剧场",
-      "logo": "https://live.fanmingming.com/tv/怀旧剧场.png"
+      "logo": "https://assets.livednow.com/logo/CCTV-怀旧剧场.png"
     },
     {
       "tvid": "36",
       "epgid": "兵器科技",
-      "name": "兵器科技,CCTV兵器科技",
+      "name": "兵器科技,CCTV兵器科技,CCTV 兵器科技",
       "status": "1",
       "note": "兵器科技",
-      "logo": "https://live.fanmingming.com/tv/兵器科技.png"
+      "logo": "https://assets.livednow.com/logo/CCTV-兵器科技.png"
     },
     {
       "tvid": "37",
       "epgid": "女性时尚",
-      "name": "女性时尚,CCTV女性时尚",
+      "name": "女性时尚,CCTV女性时尚,CCTV 女性时尚",
       "status": "1",
       "note": "女性时尚",
-      "logo": "https://live.fanmingming.com/tv/女性时尚.png"
+      "logo": "https://assets.livednow.com/logo/CCTV-女性时尚.png"
     },
     {
       "tvid": "38",
       "epgid": "高尔夫网球",
-      "name": "高尔夫网球,CCTV高尔夫网球,高尔夫•网球,CCTV高尔夫•网球",
+      "name": "高尔夫网球,CCTV高尔夫网球,高尔夫•网球,CCTV高尔夫•网球,CCTV 高尔夫网球",
       "status": "1",
       "note": "高尔夫网球",
-      "logo": "https://live.fanmingming.com/tv/高尔夫网球.png"
+      "logo": "https://assets.livednow.com/logo/CCTV-高尔夫网球.png"
     },
     {
       "tvid": "39",
       "epgid": "文化精品",
-      "name": "文化精品,CCTV文化精品,央视文化精品,CCTV央视文化精品",
+      "name": "文化精品,CCTV文化精品,央视文化精品,CCTV央视文化精品,CCTV 文化精品",
       "status": "1",
       "note": "文化精品",
-      "logo": "https://live.fanmingming.com/tv/文化精品.png"
+      "logo": "https://assets.livednow.com/logo/CCTV-央视文化精品.png"
     },
     {
       "tvid": "40",
       "epgid": "央视台球",
-      "name": "央视台球,CCTV央视台球",
+      "name": "央视台球,CCTV央视台球,CCTV 央视台球",
       "status": "1",
       "note": "央视台球",
-      "logo": "https://live.fanmingming.com/tv/央视台球.png"
+      "logo": "https://assets.livednow.com/logo/CCTV-央视台球.png"
     },
     {
       "tvid": "41",
       "epgid": "卫生健康",
-      "name": "卫生健康,CCTV卫生健康",
+      "name": "卫生健康,CCTV卫生健康,CCTV 卫生健康",
       "status": "1",
       "note": "卫生健康",
-      "logo": "https://live.fanmingming.com/tv/卫生健康.png"
+      "logo": "https://assets.livednow.com/logo/CCTV-卫生健康.png"
     },
     {
       "tvid": "42",
       "epgid": "中学生",
-      "name": "中学生,中央新影中学生,CCTV中学生",
+      "name": "中学生,中央新影中学生,CCTV中学生,CCTV 中学生",
       "status": "1",
       "note": "中学生",
-      "logo": "https://live.fanmingming.com/tv/中学生.png"
+      "logo": "https://assets.livednow.com/logo/中央新影中学生.png"
     },
     {
       "tvid": "43",
       "epgid": "老故事",
-      "name": "老故事,中央新影老故事,CCTV老故事",
+      "name": "老故事,中央新影老故事,CCTV老故事,CCTV 老故事",
       "status": "1",
       "note": "老故事",
-      "logo": "https://live.fanmingming.com/tv/老故事.png"
+      "logo": "https://assets.livednow.com/logo/CCTV-老故事.png"
     },
     {
       "tvid": "44",
       "epgid": "发现之旅",
-      "name": "发现之旅,中央新影发现之旅,CCTV发现之旅",
+      "name": "发现之旅,中央新影发现之旅,CCTV发现之旅,CCTV 发现之旅",
       "status": "1",
       "note": "发现之旅",
-      "logo": "https://live.fanmingming.com/tv/发现之旅.png"
+      "logo": "https://assets.livednow.com/logo/中央新影发现之旅.png"
     },
     {
       "tvid": "45",
@@ -358,7 +358,7 @@
       "name": "三沙卫视",
       "status": "1",
       "note": "三沙卫视",
-      "logo": "https://live.fanmingming.com/tv/三沙卫视.png"
+      "logo": "https://assets.livednow.com/logo/三沙卫视.png"
     },
     {
       "tvid": "46",
@@ -366,15 +366,15 @@
       "name": "东南卫视",
       "status": "1",
       "note": "东南卫视",
-      "logo": "https://live.fanmingming.com/tv/东南卫视.png"
+      "logo": "https://assets.livednow.com/logo/东南卫视.png"
     },
     {
       "tvid": "47",
       "epgid": "东方卫视",
-      "name": "东方卫视",
+      "name": "东方卫视,東方衛視國際頻道",
       "status": "1",
       "note": "东方卫视",
-      "logo": "https://live.fanmingming.com/tv/东方卫视.png"
+      "logo": "https://assets.livednow.com/logo/东方卫视.png"
     },
     {
       "tvid": "48",
@@ -382,7 +382,7 @@
       "name": "云南卫视",
       "status": "1",
       "note": "云南卫视",
-      "logo": "https://live.fanmingming.com/tv/云南卫视.png"
+      "logo": "https://assets.livednow.com/logo/云南卫视.png"
     },
     {
       "tvid": "49",
@@ -390,7 +390,7 @@
       "name": "兵团卫视",
       "status": "1",
       "note": "兵团卫视",
-      "logo": "https://live.fanmingming.com/tv/兵团卫视.png"
+      "logo": "https://assets.livednow.com/logo/兵团卫视.png"
     },
     {
       "tvid": "50",
@@ -398,7 +398,7 @@
       "name": "内蒙古卫视",
       "status": "1",
       "note": "内蒙古卫视",
-      "logo": "https://live.fanmingming.com/tv/内蒙古卫视.png"
+      "logo": "https://assets.livednow.com/logo/内蒙古卫视.png"
     },
     {
       "tvid": "51",
@@ -406,7 +406,7 @@
       "name": "农林卫视",
       "status": "1",
       "note": "农林卫视",
-      "logo": "https://live.fanmingming.com/tv/农林卫视.png"
+      "logo": "https://assets.livednow.com/logo/农林卫视.png"
     },
     {
       "tvid": "52",
@@ -414,7 +414,7 @@
       "name": "北京卫视",
       "status": "1",
       "note": "北京卫视",
-      "logo": "https://live.fanmingming.com/tv/北京卫视.png"
+      "logo": "https://assets.livednow.com/logo/北京卫视.png"
     },
     {
       "tvid": "53",
@@ -422,7 +422,7 @@
       "name": "南方卫视",
       "status": "1",
       "note": "南方卫视",
-      "logo": "https://live.fanmingming.com/tv/南方卫视.png"
+      "logo": "https://assets.livednow.com/logo/南方卫视.png"
     },
     {
       "tvid": "54",
@@ -430,7 +430,7 @@
       "name": "厦门卫视",
       "status": "1",
       "note": "厦门卫视",
-      "logo": "https://live.fanmingming.com/tv/厦门卫视.png"
+      "logo": "https://assets.livednow.com/logo/厦门卫视.png"
     },
     {
       "tvid": "55",
@@ -438,7 +438,7 @@
       "name": "四川卫视",
       "status": "1",
       "note": "四川卫视",
-      "logo": "https://live.fanmingming.com/tv/四川卫视.png"
+      "logo": "https://assets.livednow.com/logo/四川卫视.png"
     },
     {
       "tvid": "56",
@@ -446,7 +446,7 @@
       "name": "天津卫视",
       "status": "1",
       "note": "天津卫视",
-      "logo": "https://live.fanmingming.com/tv/天津卫视.png"
+      "logo": "https://assets.livednow.com/logo/天津卫视.png"
     },
     {
       "tvid": "57",
@@ -454,7 +454,7 @@
       "name": "大湾区卫视",
       "status": "1",
       "note": "大湾区卫视",
-      "logo": "https://live.fanmingming.com/tv/大湾区卫视.png"
+      "logo": "https://assets.livednow.com/logo/大湾区卫视.png"
     },
     {
       "tvid": "58",
@@ -462,7 +462,7 @@
       "name": "安徽卫视",
       "status": "1",
       "note": "安徽卫视",
-      "logo": "https://live.fanmingming.com/tv/安徽卫视.png"
+      "logo": "https://assets.livednow.com/logo/安徽卫视.png"
     },
     {
       "tvid": "59",
@@ -470,7 +470,7 @@
       "name": "广东卫视",
       "status": "1",
       "note": "广东卫视",
-      "logo": "https://live.fanmingming.com/tv/广东卫视.png"
+      "logo": "https://assets.livednow.com/logo/广东卫视.png"
     },
     {
       "tvid": "60",
@@ -478,7 +478,7 @@
       "name": "广西卫视",
       "status": "1",
       "note": "广西卫视",
-      "logo": "https://live.fanmingming.com/tv/广西卫视.png"
+      "logo": "https://assets.livednow.com/logo/广西卫视.png"
     },
     {
       "tvid": "61",
@@ -486,7 +486,7 @@
       "name": "吉林卫视",
       "status": "1",
       "note": "吉林卫视",
-      "logo": "https://live.fanmingming.com/tv/吉林卫视.png"
+      "logo": "https://assets.livednow.com/logo/吉林卫视.png"
     },
     {
       "tvid": "62",
@@ -494,7 +494,7 @@
       "name": "康巴卫视",
       "status": "1",
       "note": "康巴卫视",
-      "logo": "https://live.fanmingming.com/tv/康巴卫视.png"
+      "logo": "https://assets.livednow.com/logo/康巴卫视.png"
     },
     {
       "tvid": "63",
@@ -502,7 +502,7 @@
       "name": "延边卫视",
       "status": "1",
       "note": "延边卫视",
-      "logo": "https://live.fanmingming.com/tv/延边卫视.png"
+      "logo": "https://assets.livednow.com/logo/延边卫视.png"
     },
     {
       "tvid": "64",
@@ -510,7 +510,7 @@
       "name": "宁夏卫视",
       "status": "1",
       "note": "宁夏卫视",
-      "logo": "https://live.fanmingming.com/tv/宁夏卫视.png"
+      "logo": "https://assets.livednow.com/logo/宁夏卫视.png"
     },
     {
       "tvid": "65",
@@ -518,7 +518,7 @@
       "name": "安多卫视",
       "status": "1",
       "note": "安多卫视",
-      "logo": "https://live.fanmingming.com/tv/安多卫视.png"
+      "logo": "https://assets.livednow.com/logo/安多卫视.png"
     },
     {
       "tvid": "66",
@@ -526,7 +526,7 @@
       "name": "山东卫视",
       "status": "1",
       "note": "山东卫视",
-      "logo": "https://live.fanmingming.com/tv/山东卫视.png"
+      "logo": "https://assets.livednow.com/logo/山东卫视.png"
     },
     {
       "tvid": "67",
@@ -534,7 +534,7 @@
       "name": "山西卫视",
       "status": "1",
       "note": "山西卫视",
-      "logo": "https://live.fanmingming.com/tv/山西卫视.png"
+      "logo": "https://assets.livednow.com/logo/山西卫视.png"
     },
     {
       "tvid": "68",
@@ -542,7 +542,7 @@
       "name": "新疆卫视",
       "status": "1",
       "note": "新疆卫视",
-      "logo": "https://live.fanmingming.com/tv/新疆卫视.png"
+      "logo": "https://assets.livednow.com/logo/新疆卫视.png"
     },
     {
       "tvid": "69",
@@ -550,7 +550,7 @@
       "name": "江苏卫视",
       "status": "1",
       "note": "江苏卫视",
-      "logo": "https://live.fanmingming.com/tv/江苏卫视.png"
+      "logo": "https://assets.livednow.com/logo/江苏卫视.png"
     },
     {
       "tvid": "70",
@@ -558,7 +558,7 @@
       "name": "江西卫视",
       "status": "1",
       "note": "江西卫视",
-      "logo": "https://live.fanmingming.com/tv/江西卫视.png"
+      "logo": "https://assets.livednow.com/logo/江西卫视.png"
     },
     {
       "tvid": "71",
@@ -566,7 +566,7 @@
       "name": "河北卫视",
       "status": "1",
       "note": "河北卫视",
-      "logo": "https://live.fanmingming.com/tv/河北卫视.png"
+      "logo": "https://assets.livednow.com/logo/河北卫视.png"
     },
     {
       "tvid": "72",
@@ -574,7 +574,7 @@
       "name": "河南卫视",
       "status": "1",
       "note": "河南卫视",
-      "logo": "https://live.fanmingming.com/tv/河南卫视.png"
+      "logo": "https://assets.livednow.com/logo/河南卫视.png"
     },
     {
       "tvid": "73",
@@ -582,7 +582,7 @@
       "name": "浙江卫视",
       "status": "1",
       "note": "浙江卫视",
-      "logo": "https://live.fanmingming.com/tv/浙江卫视.png"
+      "logo": "https://assets.livednow.com/logo/浙江卫视.png"
     },
     {
       "tvid": "74",
@@ -590,7 +590,7 @@
       "name": "海南卫视",
       "status": "1",
       "note": "海南卫视",
-      "logo": "https://live.fanmingming.com/tv/海南卫视.png"
+      "logo": "https://assets.livednow.com/logo/海南卫视.png"
     },
     {
       "tvid": "75",
@@ -598,7 +598,7 @@
       "name": "海峡卫视",
       "status": "1",
       "note": "海峡卫视",
-      "logo": "https://live.fanmingming.com/tv/海峡卫视.png"
+      "logo": "https://assets.livednow.com/logo/海峡卫视.png"
     },
     {
       "tvid": "76",
@@ -606,7 +606,7 @@
       "name": "深圳卫视",
       "status": "1",
       "note": "深圳卫视",
-      "logo": "https://live.fanmingming.com/tv/深圳卫视.png"
+      "logo": "https://assets.livednow.com/logo/深圳卫视.png"
     },
     {
       "tvid": "77",
@@ -614,7 +614,7 @@
       "name": "湖北卫视",
       "status": "1",
       "note": "湖北卫视",
-      "logo": "https://live.fanmingming.com/tv/湖北卫视.png"
+      "logo": "https://assets.livednow.com/logo/湖北卫视.png"
     },
     {
       "tvid": "78",
@@ -622,7 +622,7 @@
       "name": "湖南卫视",
       "status": "1",
       "note": "湖南卫视",
-      "logo": "https://live.fanmingming.com/tv/湖南卫视.png"
+      "logo": "https://assets.livednow.com/logo/湖南卫视.png"
     },
     {
       "tvid": "79",
@@ -638,7 +638,7 @@
       "name": "甘肃卫视",
       "status": "1",
       "note": "甘肃卫视",
-      "logo": "https://live.fanmingming.com/tv/甘肃卫视.png"
+      "logo": "https://assets.livednow.com/logo/甘肃卫视.png"
     },
     {
       "tvid": "81",
@@ -654,7 +654,7 @@
       "name": "辽宁卫视",
       "status": "1",
       "note": "辽宁卫视",
-      "logo": "https://live.fanmingming.com/tv/辽宁卫视.png"
+      "logo": "https://assets.livednow.com/logo/辽宁卫视.png"
     },
     {
       "tvid": "83",
@@ -662,7 +662,7 @@
       "name": "西藏卫视",
       "status": "1",
       "note": "西藏卫视",
-      "logo": "https://live.fanmingming.com/tv/西藏卫视.png"
+      "logo": "https://assets.livednow.com/logo/西藏卫视.png"
     },
     {
       "tvid": "84",
@@ -670,7 +670,7 @@
       "name": "贵州卫视",
       "status": "1",
       "note": "贵州卫视",
-      "logo": "https://live.fanmingming.com/tv/贵州卫视.png"
+      "logo": "https://assets.livednow.com/logo/贵州卫视.png"
     },
     {
       "tvid": "85",
@@ -678,7 +678,7 @@
       "name": "重庆卫视",
       "status": "1",
       "note": "重庆卫视",
-      "logo": "https://live.fanmingming.com/tv/重庆卫视.png"
+      "logo": "https://assets.livednow.com/logo/重庆卫视.png"
     },
     {
       "tvid": "86",
@@ -686,7 +686,7 @@
       "name": "陕西卫视",
       "status": "1",
       "note": "陕西卫视",
-      "logo": "https://live.fanmingming.com/tv/陕西卫视.png"
+      "logo": "https://assets.livednow.com/logo/陕西卫视.png"
     },
     {
       "tvid": "87",
@@ -694,7 +694,7 @@
       "name": "黑龙江卫视",
       "status": "1",
       "note": "黑龙江卫视",
-      "logo": "https://live.fanmingming.com/tv/黑龙江卫视.png"
+      "logo": "https://assets.livednow.com/logo/黑龙江卫视.png"
     },
     {
       "tvid": "88",
@@ -710,7 +710,7 @@
       "name": "CHC动作电影,动作电影",
       "status": "1",
       "note": "CHC动作电影",
-      "logo": "https://live.fanmingming.com/tv/CHC动作电影.png"
+      "logo": "https://assets.livednow.com/logo/CHC-动作电影.png"
     },
     {
       "tvid": "90",
@@ -718,7 +718,7 @@
       "name": "CHC家庭影院,家庭影院",
       "status": "1",
       "note": "CHC家庭影院",
-      "logo": "https://live.fanmingming.com/tv/CHC家庭影院.png"
+      "logo": "https://assets.livednow.com/logo/CHC-家庭影院.png"
     },
     {
       "tvid": "91",
@@ -726,7 +726,7 @@
       "name": "CHC高清电影,高清电影",
       "status": "1",
       "note": "CHC高清电影",
-      "logo": "https://live.fanmingming.com/tv/CHC高清电影.png"
+      "logo": "https://assets.livednow.com/logo/CHC-高清电影.png"
     },
     {
       "tvid": "92",
@@ -2563,10 +2563,10 @@
     {
       "tvid": "321",
       "epgid": "翡翠台",
-      "name": "翡翠台,翡翠,TVB",
+      "name": "翡翠台,翡翠,翡翠台 4K,TVB",
       "status": "1",
       "note": "翡翠台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png"
+      "logo": "https://assets.livednow.com/logo/翡翠台.png"
     },
     {
       "tvid": "322",
@@ -2574,23 +2574,23 @@
       "name": "明珠台,明珠,Pearl,TVB Pearl",
       "status": "1",
       "note": "明珠台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png"
+      "logo": "https://assets.livednow.com/logo/明珠台.png"
     },
     {
       "tvid": "323",
       "epgid": "TVB经典台",
-      "name": "TVB经典台,TVB经典",
+      "name": "TVB经典台,TVB经典,千禧經典台",
       "status": "1",
       "note": "TVB经典台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/TVBclassic.png"
+      "logo": "https://assets.livednow.com/logo/千禧經典台.png"
     },
     {
       "tvid": "324",
       "epgid": "无线新闻",
-      "name": "无线新闻台,无线新闻",
+      "name": "无线新闻台,无线新闻,無線新聞台",
       "status": "1",
       "note": "无线新闻台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/wxxw.png"
+      "logo": "https://assets.livednow.com/logo/無線新聞台.png"
     },
     {
       "tvid": "325",
@@ -2603,26 +2603,26 @@
     {
       "tvid": "326",
       "epgid": "凤凰中文",
-      "name": "凤凰卫视中文台,凤凰卫视,凤凰中文",
+      "name": "凤凰卫视中文台,凤凰卫视,凤凰中文,凤凰卫视中文",
       "status": "1",
       "note": "凤凰卫视中文台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png"
+      "logo": "https://assets.livednow.com/logo/凤凰卫视中文.png"
     },
     {
       "tvid": "327",
       "epgid": "凤凰资讯",
-      "name": "凤凰卫视资讯台,凤凰资讯",
+      "name": "凤凰卫视资讯台,凤凰资讯,凤凰卫视资讯",
       "status": "1",
       "note": "凤凰卫视资讯台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png"
+      "logo": "https://assets.livednow.com/logo/凤凰卫视资讯.png"
     },
     {
       "tvid": "328",
       "epgid": "凤凰香港",
-      "name": "凤凰卫视香港台,凤凰香港",
+      "name": "凤凰卫视香港台,凤凰香港,凤凰卫视香港",
       "status": "1",
       "note": "凤凰卫视香港台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png"
+      "logo": "https://assets.livednow.com/logo/凤凰卫视香港.png"
     },
     {
       "tvid": "329",
@@ -2635,10 +2635,10 @@
     {
       "tvid": "330",
       "epgid": "美亚高清电影台",
-      "name": "美亚高清电影台(香港)",
+      "name": "美亚高清电影台(香港),美亞電影台",
       "status": "1",
       "note": "美亚高清电影台(香港)",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png"
+      "logo": "https://assets.livednow.com/logo/美亞電影台-HK.png"
     },
     {
       "tvid": "331",
@@ -2683,10 +2683,10 @@
     {
       "tvid": "336",
       "epgid": "J2",
-      "name": "J2",
+      "name": "J2,TVB Plus",
       "status": "1",
       "note": "J2",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png"
+      "logo": "https://assets.livednow.com/logo/TVB-Plus.png"
     },
     {
       "tvid": "337",
@@ -2787,18 +2787,18 @@
     {
       "tvid": "349",
       "epgid": "GoodTV2",
-      "name": "好消息二台",
+      "name": "好消息二台,好消息2台",
       "status": "1",
       "note": "好消息二台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/GoodTV2.png"
+      "logo": "https://assets.livednow.com/logo/好消息2台.png"
     },
     {
       "tvid": "350",
       "epgid": "创世电视",
-      "name": "创世电视",
+      "name": "创世电视,創世電視",
       "status": "1",
       "note": "创世电视",
-      "logo": ""
+      "logo": "https://assets.livednow.com/logo/創世電視.png"
     },
     {
       "tvid": "351",
@@ -2843,42 +2843,42 @@
     {
       "tvid": "356",
       "epgid": "台视",
-      "name": "台视",
+      "name": "台视,台視",
       "status": "1",
       "note": "台视",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/台视.png"
+      "logo": "https://assets.livednow.com/logo/台視.png"
     },
     {
       "tvid": "357",
       "epgid": "大爱一台",
-      "name": "大爱电视台",
+      "name": "大爱电视台,大愛電視",
       "status": "1",
       "note": "大爱电视台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/daai.png"
+      "logo": "https://assets.livednow.com/logo/大愛電視.png"
     },
     {
       "tvid": "358",
       "epgid": "中视",
-      "name": "中视",
+      "name": "中视,中視",
       "status": "1",
       "note": "中视",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/中视.png"
+      "logo": "https://assets.livednow.com/logo/中視.png"
     },
     {
       "tvid": "359",
       "epgid": "人间卫视",
-      "name": "人间卫视",
+      "name": "人间卫视,人間衛視",
       "status": "1",
       "note": "人间卫视",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png"
+      "logo": "https://assets.livednow.com/logo/人間衛視.png"
     },
     {
       "tvid": "360",
       "epgid": "华视",
-      "name": "华视",
+      "name": "华视,華視",
       "status": "1",
       "note": "华视",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/CTS.png"
+      "logo": "https://assets.livednow.com/logo/華視.png"
     },
     {
       "tvid": "361",
@@ -2891,34 +2891,34 @@
     {
       "tvid": "362",
       "epgid": "GoodTV",
-      "name": "好消息频道",
+      "name": "好消息频道,好消息",
       "status": "1",
       "note": "好消息频道",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/GoodTV.png"
+      "logo": "https://assets.livednow.com/logo/好消息.png"
     },
     {
       "tvid": "363",
       "epgid": "原住民频道",
-      "name": "原住民频道",
+      "name": "原住民频道,原住民族電視台",
       "status": "1",
       "note": "原住民频道",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/yuanzhumin.png"
+      "logo": "https://assets.livednow.com/logo/原住民族電視台.png"
     },
     {
       "tvid": "364",
       "epgid": "客家电视台",
-      "name": "客家电视台",
+      "name": "客家电视台,客家電視台",
       "status": "1",
       "note": "客家电视台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/HakkaTV.png"
+      "logo": "https://assets.livednow.com/logo/客家電視台.png"
     },
     {
       "tvid": "365",
       "epgid": "MOMO亲子台",
-      "name": "MOMO亲子台",
+      "name": "MOMO亲子台,MOMO 親子台",
       "status": "1",
       "note": "MOMO亲子台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/MOMOkids.png"
+      "logo": "https://assets.livednow.com/logo/MOMO-親子台.png"
     },
     {
       "tvid": "366",
@@ -3043,10 +3043,10 @@
     {
       "tvid": "381",
       "epgid": "TVBS欢乐台",
-      "name": "TVBS欢乐台,TVBS欢乐",
+      "name": "TVBS欢乐台,TVBS欢乐,TVBS 歡樂台",
       "status": "1",
       "note": "TVBS欢乐台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/TVBS欢乐.png"
+      "logo": "https://assets.livednow.com/logo/TVBS-歡樂台.png"
     },
     {
       "tvid": "382",
@@ -3091,42 +3091,42 @@
     {
       "tvid": "387",
       "epgid": "东森新闻台",
-      "name": "东森新闻台,东森新闻",
+      "name": "东森新闻台,东森新闻,東森新聞",
       "status": "1",
       "note": "东森新闻台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/EBCNews.png"
+      "logo": "https://assets.livednow.com/logo/東森新聞.png"
     },
     {
       "tvid": "388",
       "epgid": "中天新闻台",
-      "name": "中天新闻台,中天新闻",
+      "name": "中天新闻台,中天新闻,中天新聞台",
       "status": "1",
       "note": "中天新闻台",
-      "logo": ""
+      "logo": "https://assets.livednow.com/logo/中天新聞台.png"
     },
     {
       "tvid": "389",
       "epgid": "民视新闻台",
-      "name": "民视新闻台,民视新闻",
+      "name": "民视新闻台,民视新闻,民視新聞台",
       "status": "1",
       "note": "民视新闻台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/FTVNews.png"
+      "logo": "https://assets.livednow.com/logo/民視新聞台.png"
     },
     {
       "tvid": "390",
       "epgid": "三立新闻台",
-      "name": "三立新闻台,三立新闻",
+      "name": "三立新闻台,三立新闻,三立新聞",
       "status": "1",
       "note": "三立新闻台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/SETNews.png"
+      "logo": "https://assets.livednow.com/logo/三立新聞.png"
     },
     {
       "tvid": "391",
       "epgid": "TVBS新闻台",
-      "name": "TVBS 新闻台,TVBS新闻台,TVBS新闻",
+      "name": "TVBS 新闻台,TVBS新闻台,TVBS新闻,TVBS 新聞台,無線衛星新聞台",
       "status": "1",
       "note": "TVBS 新闻台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png"
+      "logo": "https://assets.livednow.com/logo/TVBS-新聞台.png"
     },
     {
       "tvid": "392",
@@ -3134,23 +3134,23 @@
       "name": "TVBS",
       "status": "1",
       "note": "TVBS",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/TVBS.png"
+      "logo": "https://assets.livednow.com/logo/TVBS.png"
     },
     {
       "tvid": "393",
       "epgid": "东森财经新闻台",
-      "name": "东森财经新闻台,东森财经新闻",
+      "name": "东森财经新闻台,东森财经新闻,東森財經新聞",
       "status": "1",
       "note": "东森财经新闻台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png"
+      "logo": "https://assets.livednow.com/logo/東森財經新聞.png"
     },
     {
       "tvid": "394",
       "epgid": "非凡新闻台",
-      "name": "非凡新闻台",
+      "name": "非凡新闻台,非凡新聞台",
       "status": "1",
       "note": "非凡新闻台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/UniqueNews.png"
+      "logo": "https://assets.livednow.com/logo/非凡新聞台.png"
     },
     {
       "tvid": "395",
@@ -3235,18 +3235,18 @@
     {
       "tvid": "405",
       "epgid": "靖天综合台",
-      "name": "靖天综合台,靖天综合",
+      "name": "靖天综合台,靖天综合,靖天綜合台",
       "status": "1",
       "note": "靖天综合台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/靖天综合.png"
+      "logo": "https://assets.livednow.com/logo/靖天綜合台.png"
     },
     {
       "tvid": "406",
       "epgid": "靖天资讯台",
-      "name": "靖天资讯台,靖天资讯",
+      "name": "靖天资讯台,靖天资讯,靖天資訊台",
       "status": "1",
       "note": "靖天资讯台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/靖天资讯.png"
+      "logo": "https://assets.livednow.com/logo/靖天資訊台.png"
     },
     {
       "tvid": "407",
@@ -3259,10 +3259,10 @@
     {
       "tvid": "408",
       "epgid": "靖洋戏剧台",
-      "name": "靖洋戏剧台",
+      "name": "靖洋戏剧台,靖洋戲劇台",
       "status": "1",
       "note": "靖洋戏剧台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/靖洋戏剧.png"
+      "logo": "https://assets.livednow.com/logo/靖洋戲劇台.png"
     },
     {
       "tvid": "409",
@@ -3307,10 +3307,10 @@
     {
       "tvid": "414",
       "epgid": "非凡商业台",
-      "name": "非凡商业台,非凡商业",
+      "name": "非凡商业台,非凡商业,非凡商業台",
       "status": "1",
       "note": "非凡商业台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/UniqueUSTVHDUSTVHD.png"
+      "logo": "https://assets.livednow.com/logo/非凡商業台.png"
     },
     {
       "tvid": "415",
@@ -3339,10 +3339,10 @@
     {
       "tvid": "418",
       "epgid": "SBN全球财经台",
-      "name": "SBN全球财经台",
+      "name": "SBN全球财经台,SBN 全球財經台",
       "status": "1",
       "note": "SBN全球财经台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/SBN.png"
+      "logo": "https://assets.livednow.com/logo/SBN-全球財經台.png"
     },
     {
       "tvid": "419",
@@ -3355,18 +3355,18 @@
     {
       "tvid": "420",
       "epgid": "MTV",
-      "name": "MTV Live HD 音乐频道",
+      "name": "MTV Live HD 音乐频道,MTV Live HD 音樂頻道",
       "status": "1",
       "note": "MTV Live HD 音乐频道",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/mtvlivehd.png"
+      "logo": "https://assets.livednow.com/logo/MTV-Live-HD-音樂頻道.png"
     },
     {
       "tvid": "421",
       "epgid": "靖天映画",
-      "name": "靖天映画",
+      "name": "靖天映画,靖天映畫台",
       "status": "1",
       "note": "靖天映画",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/靖天映画.png"
+      "logo": "https://assets.livednow.com/logo/靖天映畫台.png"
     },
     {
       "tvid": "422",
@@ -3491,26 +3491,26 @@
     {
       "tvid": "437",
       "epgid": "大爱二台",
-      "name": "大爱二台",
+      "name": "大爱二台,大愛電視2",
       "status": "1",
       "note": "大爱二台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/daai2.png"
+      "logo": "https://assets.livednow.com/logo/大愛電視.png"
     },
     {
       "tvid": "438",
       "epgid": "台视新闻台",
-      "name": "台视新闻台,台视新闻",
+      "name": "台视新闻台,台视新闻,台視新聞台",
       "status": "1",
       "note": "台视新闻台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/台视新闻.png"
+      "logo": "https://assets.livednow.com/logo/台視新聞台.png"
     },
     {
       "tvid": "439",
       "epgid": "台视财经台",
-      "name": "台视财经台,台视财经",
+      "name": "台视财经台,台视财经,台視財經台",
       "status": "1",
       "note": "台视财经台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/台视财经.png"
+      "logo": "https://assets.livednow.com/logo/台視財經台.png"
     },
     {
       "tvid": "440",
@@ -3523,18 +3523,18 @@
     {
       "tvid": "441",
       "epgid": "靖天欢乐台",
-      "name": "靖天欢乐台,靖天欢乐",
+      "name": "靖天欢乐台,靖天欢乐,靖天歡樂台",
       "status": "1",
       "note": "靖天欢乐台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/靖天欢乐.png"
+      "logo": "https://assets.livednow.com/logo/靖天歡樂台.png"
     },
     {
       "tvid": "442",
       "epgid": "靖天育乐台",
-      "name": "靖天育乐台,靖天育乐",
+      "name": "靖天育乐台,靖天育乐,靖天育樂台",
       "status": "1",
       "note": "靖天育乐台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/靖天育乐.png"
+      "logo": "https://assets.livednow.com/logo/靖天育樂台.png"
     },
     {
       "tvid": "443",
@@ -3542,7 +3542,7 @@
       "name": "靖天日本台,靖天日本",
       "status": "1",
       "note": "靖天日本台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/靖天日本.png"
+      "logo": "https://assets.livednow.com/logo/靖天日本台.png"
     },
     {
       "tvid": "444",
@@ -3555,10 +3555,10 @@
     {
       "tvid": "445",
       "epgid": "HGTV居家乐活",
-      "name": "HGTV居家乐活",
+      "name": "HGTV居家乐活,HGTV 居家樂活頻道",
       "status": "1",
       "note": "HGTV居家乐活",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/HGTV.png"
+      "logo": "https://assets.livednow.com/logo/HGTV-TW.png"
     },
     {
       "tvid": "446",
@@ -3571,7 +3571,7 @@
     {
       "tvid": "447",
       "epgid": "亚洲美食频道",
-      "name": "亚洲美食频道",
+      "name": "亚洲美食频道,Asian Food Network 亞洲美食頻道",
       "status": "1",
       "note": "亚洲美食频道",
       "logo": "http://epg.51zmt.top:8000/tb1/gt/afc.png"
@@ -3579,90 +3579,90 @@
     {
       "tvid": "448",
       "epgid": "寰宇新闻",
-      "name": "寰宇新闻",
+      "name": "寰宇新闻,寰宇新聞台",
       "status": "1",
       "note": "寰宇新闻",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png"
+      "logo": "https://assets.livednow.com/logo/寰宇新聞台.png"
     },
     {
       "tvid": "449",
       "epgid": "亚洲旅游台",
-      "name": "亚洲旅游台",
+      "name": "亚洲旅游台,亞洲旅遊台",
       "status": "1",
       "note": "亚洲旅游台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/asiatravel.png"
+      "logo": "https://assets.livednow.com/logo/亞洲旅遊台.png"
     },
     {
       "tvid": "450",
       "epgid": "博斯运动二台",
-      "name": "博斯运动二台",
+      "name": "博斯运动二台,博斯運動二台",
       "status": "1",
       "note": "博斯运动二台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/sports_net_2.png"
+      "logo": "https://assets.livednow.com/logo/博斯運動二台.png"
     },
     {
       "tvid": "451",
       "epgid": "博斯网球台",
-      "name": "博斯网球台",
+      "name": "博斯网球台,博斯網球台",
       "status": "1",
       "note": "博斯网球台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/sport_tennis.png"
+      "logo": "https://assets.livednow.com/logo/博斯網球台.png"
     },
     {
       "tvid": "452",
       "epgid": "博斯无限台",
-      "name": "博斯无限台",
+      "name": "博斯无限台,博斯無限台",
       "status": "1",
       "note": "博斯无限台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/sport_unlimited.png"
+      "logo": "https://assets.livednow.com/logo/博斯無限台.png"
     },
     {
       "tvid": "453",
       "epgid": "博斯高球1台",
-      "name": "博斯高球1台",
+      "name": "博斯高球1台,博斯高球台",
       "status": "1",
       "note": "博斯高球1台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/sports-golfch.png"
+      "logo": "https://assets.livednow.com/logo/博斯高球台.png"
     },
     {
       "tvid": "454",
       "epgid": "博斯高球2台",
-      "name": "博斯高球2台",
+      "name": "博斯高球2台,博斯高球二台",
       "status": "1",
       "note": "博斯高球2台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/sport-golfplus.png"
+      "logo": "https://assets.livednow.com/logo/博斯高球二台.png"
     },
     {
       "tvid": "455",
       "epgid": "博斯魅力网",
-      "name": "博斯魅力网",
+      "name": "博斯魅力网,博斯魅力台",
       "status": "1",
       "note": "博斯魅力网",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/sport-trendsport.png"
+      "logo": "https://assets.livednow.com/logo/博斯魅力台.png"
     },
     {
       "tvid": "456",
       "epgid": "博斯运动一台",
-      "name": "博斯运动一台",
+      "name": "博斯运动一台,博斯運動一台",
       "status": "1",
       "note": "博斯运动一台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/sport-sports_net.png"
+      "logo": "https://assets.livednow.com/logo/博斯運動一台.png"
     },
     {
       "tvid": "457",
       "epgid": "博斯无限二台",
-      "name": "博斯无限二台",
+      "name": "博斯无限二台,博斯無限二台",
       "status": "1",
       "note": "博斯无限二台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/sport_unlimited2.png"
+      "logo": "https://assets.livednow.com/logo/博斯無限二台.png"
     },
     {
       "tvid": "458",
       "epgid": "达文西频道",
-      "name": "达文西频道",
+      "name": "达文西频道,達文西頻道",
       "status": "1",
       "note": "达文西频道",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/davinci.png"
+      "logo": "https://assets.livednow.com/logo/達文西頻道.png"
     },
     {
       "tvid": "459",
@@ -3675,10 +3675,10 @@
     {
       "tvid": "460",
       "epgid": "靖洋卡通台",
-      "name": "靖洋卡通台,靖洋卡通",
+      "name": "靖洋卡通台,靖洋卡通,靖洋卡通 Nice Bingo",
       "status": "1",
       "note": "靖洋卡通台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/靖洋卡通.png"
+      "logo": "https://assets.livednow.com/logo/靖洋卡通-Nice-Bingo.png"
     },
     {
       "tvid": "461",
@@ -3691,50 +3691,50 @@
     {
       "tvid": "462",
       "epgid": "三立综合台",
-      "name": "三立综合台,三立综合",
+      "name": "三立综合台,三立综合,三立綜合台",
       "status": "1",
       "note": "三立综合台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/SETZonghe.png"
+      "logo": "https://assets.livednow.com/logo/三立綜合台.png"
     },
     {
       "tvid": "463",
       "epgid": "龙华偶像",
-      "name": "龙华偶像",
+      "name": "龙华偶像,龍華偶像台",
       "status": "1",
       "note": "龙华偶像",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/龙华偶像.png"
+      "logo": "https://assets.livednow.com/logo/龍華偶像台.png"
     },
     {
       "tvid": "464",
       "epgid": "龙华戏剧",
-      "name": "龙华戏剧",
+      "name": "龙华戏剧,龍華戲劇台",
       "status": "1",
       "note": "龙华戏剧",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/龙华戏剧.png"
+      "logo": "https://assets.livednow.com/logo/龍華戲劇台.png"
     },
     {
       "tvid": "465",
       "epgid": "龙华电影",
-      "name": "龙华电影",
+      "name": "龙华电影,龍華電影台",
       "status": "1",
       "note": "龙华电影",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/龙华电影.png"
+      "logo": "https://assets.livednow.com/logo/龍華電影台.png"
     },
     {
       "tvid": "466",
       "epgid": "龙华卡通台",
-      "name": "龙华卡通台",
+      "name": "龙华卡通台,龍華卡通台",
       "status": "1",
       "note": "龙华卡通台",
-      "logo": ""
+      "logo": "https://assets.livednow.com/logo/龍華卡通台.png"
     },
     {
       "tvid": "467",
       "epgid": "龙华经典",
-      "name": "龙华经典",
+      "name": "龙华经典,龍華經典台",
       "status": "1",
       "note": "龙华经典",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/龙华经典.png"
+      "logo": "https://assets.livednow.com/logo/龍華經典台.png"
     },
     {
       "tvid": "468",
@@ -3755,42 +3755,42 @@
     {
       "tvid": "470",
       "epgid": "民视第一台",
-      "name": "民视第一台",
+      "name": "民视第一台,民視第一台",
       "status": "1",
       "note": "民视第一台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/ftv-1.png"
+      "logo": "https://assets.livednow.com/logo/民視第一台.png"
     },
     {
       "tvid": "471",
       "epgid": "民视台湾台",
-      "name": "民视台湾台,民视台湾",
+      "name": "民视台湾台,民视台湾,民視台灣台",
       "status": "1",
       "note": "民视台湾台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/ftv-taiwan.png"
+      "logo": "https://assets.livednow.com/logo/民視台灣台.png"
     },
     {
       "tvid": "472",
       "epgid": "民视",
-      "name": "民视",
+      "name": "民视,民視",
       "status": "1",
       "note": "民视",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/民视.png"
+      "logo": "https://assets.livednow.com/logo/民視.png"
     },
     {
       "tvid": "473",
       "epgid": "中视菁采台",
-      "name": "中视菁采台",
+      "name": "中视菁采台,中視菁采台",
       "status": "1",
       "note": "中视菁采台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/中视菁采.png"
+      "logo": "https://assets.livednow.com/logo/中視菁采台.png"
     },
     {
       "tvid": "474",
       "epgid": "TVBS精采台",
-      "name": "TVBS精采台",
+      "name": "TVBS精采台,TVBS 精采台",
       "status": "1",
       "note": "TVBS精采台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/TVBS精采.png"
+      "logo": "https://assets.livednow.com/logo/TVBS-精采台.png"
     },
     {
       "tvid": "475",
@@ -3803,10 +3803,10 @@
     {
       "tvid": "476",
       "epgid": "民视综艺台",
-      "name": "民视综艺台,民视综艺",
+      "name": "民视综艺台,民视综艺,民視綜藝台",
       "status": "1",
       "note": "民视综艺台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/ftv-zongyi.png"
+      "logo": "https://assets.livednow.com/logo/民視綜藝台.png"
     },
     {
       "tvid": "477",
@@ -3822,7 +3822,7 @@
       "name": "TRACE Urban",
       "status": "1",
       "note": "TRACE Urban",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/traceurban.png"
+      "logo": "https://assets.livednow.com/logo/Trace-Urban.png"
     },
     {
       "tvid": "479",
@@ -3835,26 +3835,26 @@
     {
       "tvid": "480",
       "epgid": "龙华日韩台",
-      "name": "龙华日韩台,龙华日韩",
+      "name": "龙华日韩台,龙华日韩,龍華日韓台",
       "status": "1",
       "note": "龙华日韩台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/龙华日韩.png"
+      "logo": "https://assets.livednow.com/logo/龍華日韓台.png"
     },
     {
       "tvid": "481",
       "epgid": "靖天戏剧台",
-      "name": "靖天戏剧台,靖天戏剧",
+      "name": "靖天戏剧台,靖天戏剧,靖天戲劇台",
       "status": "1",
       "note": "靖天戏剧台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/靖天戏剧.png"
+      "logo": "https://assets.livednow.com/logo/靖天戲劇台.png"
     },
     {
       "tvid": "482",
       "epgid": "靖天电影台",
-      "name": "靖天电影台,靖天电影",
+      "name": "靖天电影台,靖天电影,靖天電影台",
       "status": "1",
       "note": "靖天电影台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/靖天电影.png"
+      "logo": "https://assets.livednow.com/logo/靖天電影台.png"
     },
     {
       "tvid": "483",
@@ -3867,18 +3867,18 @@
     {
       "tvid": "484",
       "epgid": "中视经典",
-      "name": "中视经典台,中视经典",
+      "name": "中视经典台,中视经典,中視經典台",
       "status": "1",
       "note": "中视经典台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/中视经典.png"
+      "logo": "https://assets.livednow.com/logo/民視綜藝台.png"
     },
     {
       "tvid": "485",
       "epgid": "iFun1",
-      "name": "i-Fun动漫台",
+      "name": "i-Fun动漫台,i-Fun 動漫台",
       "status": "1",
       "note": "i-Fun动漫台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/ifun1.png"
+      "logo": "https://assets.livednow.com/logo/i-Fun-動漫台.png"
     },
     {
       "tvid": "486",
@@ -3899,10 +3899,10 @@
     {
       "tvid": "488",
       "epgid": "中视新闻",
-      "name": "中视新闻台,中视新闻",
+      "name": "中视新闻台,中视新闻,中視新聞台",
       "status": "1",
       "note": "中视新闻台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/中视新闻.png"
+      "logo": "https://assets.livednow.com/logo/中視新聞台.png"
     },
     {
       "tvid": "489",
@@ -3915,10 +3915,10 @@
     {
       "tvid": "490",
       "epgid": "CI",
-      "name": "CI 罪案侦查频道",
+      "name": "CI 罪案侦查频道,CI 罪案偵查頻道",
       "status": "1",
       "note": "CI 罪案侦查频道",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/CrimeInvestigation.png"
+      "logo": "https://assets.livednow.com/logo/CI-罪案偵查頻道.png"
     },
     {
       "tvid": "491",
@@ -3931,34 +3931,34 @@
     {
       "tvid": "492",
       "epgid": "采昌影剧",
-      "name": "采昌影剧台",
+      "name": "采昌影剧台,采昌影劇台",
       "status": "1",
       "note": "采昌影剧台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/采昌影剧.png"
+      "logo": "https://assets.livednow.com/logo/民視綜藝台.png"
     },
     {
       "tvid": "493",
       "epgid": "智林体育",
-      "name": "智林体育台",
+      "name": "智林体育台,智林體育台",
       "status": "1",
       "note": "智林体育台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/智林体育台.png"
+      "logo": "https://assets.livednow.com/logo/智林體育台.png"
     },
     {
       "tvid": "494",
       "epgid": "影迷数位纪实",
-      "name": "影迷数位纪实台",
+      "name": "影迷数位纪实台,影迷數位紀實台",
       "status": "1",
       "note": "影迷数位纪实台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/影迷纪实.png"
+      "logo": "https://assets.livednow.com/logo/影迷數位紀實台.png"
     },
     {
       "tvid": "495",
       "epgid": "影迷数位电影",
-      "name": "影迷数位电影台",
+      "name": "影迷数位电影台,影迷數位電影台",
       "status": "1",
       "note": "影迷数位电影台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/影迷电影.png"
+      "logo": "https://assets.livednow.com/logo/影迷數位電影台.png"
     },
     {
       "tvid": "496",
@@ -3971,18 +3971,18 @@
     {
       "tvid": "497",
       "epgid": "靖天国际",
-      "name": "KLT靖天国际,靖天国际",
+      "name": "KLT靖天国际,靖天国际,靖天國際台",
       "status": "1",
       "note": "KLT靖天国际",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/靖天国际.png"
+      "logo": "https://assets.livednow.com/logo/靖天國際台.png"
     },
     {
       "tvid": "498",
       "epgid": "龙华动画",
-      "name": "龙华动画",
+      "name": "龙华动画,龍華卡通台",
       "status": "1",
       "note": "龙华动画",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/longhuadonghua.png"
+      "logo": "https://assets.livednow.com/logo/龍華卡通台.png"
     },
     {
       "tvid": "499",
@@ -4003,7 +4003,7 @@
     {
       "tvid": "501",
       "epgid": "爱尔达体育2",
-      "name": "爱尔达体育2台",
+      "name": "爱尔达体育2台,愛爾達體育2台",
       "status": "1",
       "note": "爱尔达体育2台",
       "logo": "http://epg.51zmt.top:8000/tb1/gt/elta_sports2.png"
@@ -4011,18 +4011,18 @@
     {
       "tvid": "502",
       "epgid": "LUXETV",
-      "name": "LUXE TV Channel",
+      "name": "LUXE TV Channel,LUXE TV",
       "status": "1",
       "note": "LUXE TV Channel",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/luxetv.png"
+      "logo": "https://assets.livednow.com/logo/LUXE-TV.png"
     },
     {
       "tvid": "503",
       "epgid": "rollor",
-      "name": "滚动力 rollor",
+      "name": "滚动力 rollor,滾動力 Rollor",
       "status": "1",
       "note": "滚动力 rollor",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/roller.png"
+      "logo": "https://assets.livednow.com/logo/滾動力-Rollor.png"
     },
     {
       "tvid": "504",
@@ -4067,15 +4067,15 @@
     {
       "tvid": "509",
       "epgid": "台湾戏剧",
-      "name": "台湾戏剧台",
+      "name": "台湾戏剧台,台灣戲劇台",
       "status": "1",
       "note": "台湾戏剧台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/taiwanxiju.png"
+      "logo": "https://assets.livednow.com/logo/台灣戲劇台.png"
     },
     {
       "tvid": "510",
       "epgid": "爱尔达影剧",
-      "name": "爱尔达影剧台",
+      "name": "爱尔达影剧台,愛爾達影劇台",
       "status": "1",
       "note": "爱尔达影剧台",
       "logo": "http://epg.51zmt.top:8000/tb1/gt/elta_yingju.png"
@@ -4099,26 +4099,26 @@
     {
       "tvid": "513",
       "epgid": "寰宇财经",
-      "name": "寰宇财经台,寰宇财经",
+      "name": "寰宇财经台,寰宇财经,寰宇財經台",
       "status": "1",
       "note": "寰宇财经台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/huanyucaijing.png"
+      "logo": "https://assets.livednow.com/logo/寰宇財經台.png"
     },
     {
       "tvid": "514",
       "epgid": "CatchPlay电影",
-      "name": "CatchPlay电影台",
+      "name": "CatchPlay电影台,CatchPlay 電影台",
       "status": "1",
       "note": "CatchPlay电影台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/catchplay.png"
+      "logo": "https://assets.livednow.com/logo/CatchPlay-電影台.png"
     },
     {
       "tvid": "515",
       "epgid": "MyCinemaEurope",
-      "name": "我的欧洲电影",
+      "name": "我的欧洲电影,My Cinema Europe HD 我的歐洲電影",
       "status": "1",
       "note": "我的欧洲电影",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/MyCinemaEurope.png"
+      "logo": "https://assets.livednow.com/logo/My-Cinema-Europe-HD-我的歐洲電影.png"
     },
     {
       "tvid": "516",
@@ -4139,7 +4139,7 @@
     {
       "tvid": "518",
       "epgid": "爱尔达体育1",
-      "name": "爱尔达体育1台",
+      "name": "爱尔达体育1台,愛爾達體育1台",
       "status": "1",
       "note": "爱尔达体育1台",
       "logo": "http://epg.51zmt.top:8000/tb1/gt/eata_sports1.png"
@@ -4147,7 +4147,7 @@
     {
       "tvid": "519",
       "epgid": "爱尔达体育3",
-      "name": "爱尔达体育3台",
+      "name": "爱尔达体育3台,愛爾達體育3台",
       "status": "1",
       "note": "爱尔达体育3台",
       "logo": "http://epg.51zmt.top:8000/tb1/gt/eata_sports3.png"
@@ -4179,7 +4179,7 @@
     {
       "tvid": "523",
       "epgid": "爱尔达综合",
-      "name": "爱尔达综合台",
+      "name": "爱尔达综合台,愛爾達綜合台",
       "status": "1",
       "note": "爱尔达综合台",
       "logo": "http://epg.51zmt.top:8000/tb1/gt/elta_zonghehd.png"
@@ -4259,10 +4259,10 @@
     {
       "tvid": "533",
       "epgid": "NHKWorld",
-      "name": "NHK World TV",
+      "name": "NHK World TV,NHK-World-Japan",
       "status": "1",
       "note": "NHK World TV",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png"
+      "logo": "https://assets.livednow.com/logo/NHK-HK.png"
     },
     {
       "tvid": "534",
@@ -4283,10 +4283,10 @@
     {
       "tvid": "536",
       "epgid": "MEZZOLIVEHD",
-      "name": "MEZZO LIVE HD",
+      "name": "MEZZO LIVE HD,Mezzo Live,Mezzo Live HD",
       "status": "1",
       "note": "MEZZO LIVE HD",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/mezzo.png"
+      "logo": "https://assets.livednow.com/logo/Mezzo-Live-HK.png"
     },
     {
       "tvid": "537",
@@ -4299,23 +4299,23 @@
     {
       "tvid": "538",
       "epgid": "Lifetime",
-      "name": "Lifetime 娱乐频道",
+      "name": "Lifetime 娱乐频道,Lifetime 娛樂頻道",
       "status": "1",
       "note": "Lifetime 娱乐频道",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/Lifetime.png"
+      "logo": "https://assets.livednow.com/logo/Lifetime-娛樂頻道.png"
     },
     {
       "tvid": "539",
       "epgid": "BBCWorldNews",
-      "name": "BBC World News",
+      "name": "BBC World News,BBC NEWS",
       "status": "1",
       "note": "BBC World News",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png"
+      "logo": "https://assets.livednow.com/logo/BBC-World-News.png"
     },
     {
       "tvid": "540",
       "epgid": "CN卡通频道",
-      "name": "CN卡通频道,CN卡通",
+      "name": "CN卡通频道,CN卡通,CN 卡通頻道",
       "status": "1",
       "note": "CN卡通频道",
       "logo": "http://epg.51zmt.top:8000/tb1/gt/CNCartoon.png"
@@ -4326,15 +4326,15 @@
       "name": "Disney Junior",
       "status": "1",
       "note": "Disney Junior",
-      "logo": ""
+      "logo": "https://assets.livednow.com/logo/Disney-Junior.png"
     },
     {
       "tvid": "542",
       "epgid": "CNBCHongKong",
-      "name": "CNBC亚太财经",
+      "name": "CNBC亚太财经,CNBC Asia 財經台",
       "status": "1",
       "note": "CNBC亚太财经",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/CNBC.png"
+      "logo": "https://assets.livednow.com/logo/CNBC-Asia-財經台.png"
     },
     {
       "tvid": "543",
@@ -4371,18 +4371,18 @@
     {
       "tvid": "547",
       "epgid": "FoxNews",
-      "name": "Fox News Channel",
+      "name": "Fox News Channel,FOX News",
       "status": "1",
       "note": "Fox News Channel",
-      "logo": ""
+      "logo": "https://assets.livednow.com/logo/FOX-NEWS.png"
     },
     {
       "tvid": "548",
       "epgid": "DW",
-      "name": "DW德国之声",
+      "name": "DW德国之声,DW德國之聲",
       "status": "1",
       "note": "DW德国之声",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/DW.png"
+      "logo": "https://assets.livednow.com/logo/DW.png"
     },
     {
       "tvid": "549",
@@ -4395,10 +4395,10 @@
     {
       "tvid": "550",
       "epgid": "france24",
-      "name": "法国24台",
+      "name": "法国24台,France 24",
       "status": "1",
       "note": "法国24台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/france24.png"
+      "logo": "https://assets.livednow.com/logo/France-24-HK.png"
     },
     {
       "tvid": "551",
@@ -4411,10 +4411,10 @@
     {
       "tvid": "552",
       "epgid": "天映经典",
-      "name": "天映经典频道,天映经典",
+      "name": "天映经典频道,天映经典,天映經典頻道",
       "status": "1",
       "note": "天映经典频道",
-      "logo": ""
+      "logo": "https://assets.livednow.com/logo/天映經典頻道.png"
     },
     {
       "tvid": "553",
@@ -4427,10 +4427,10 @@
     {
       "tvid": "554",
       "epgid": "cinemaworld",
-      "name": "cinemaworld",
+      "name": "cinemaworld,CinemaWorld",
       "status": "1",
       "note": "cinemaworld",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png"
+      "logo": "https://assets.livednow.com/logo/CinemaWorld.png"
     },
     {
       "tvid": "555",
@@ -4451,10 +4451,10 @@
     {
       "tvid": "557",
       "epgid": "TraceSports",
-      "name": "Trace Sports",
+      "name": "Trace Sports,TraceSports",
       "status": "1",
       "note": "Trace Sports",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/TRACESportStars.png"
+      "logo": "https://assets.livednow.com/logo/TraceSports.png"
     },
     {
       "tvid": "558",
@@ -4467,17 +4467,17 @@
     {
       "tvid": "559",
       "epgid": "HITS",
-      "name": "HITS",
+      "name": "HITS,HITS 頻道",
       "status": "1",
       "note": "HITS",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/HITS.png"
+      "logo": "https://assets.livednow.com/logo/HITS-頻道.png"
     },
     {
       "tvid": "560",
       "epgid": "CNN",
       "name": "CNN国际新闻频道",
       "status": "1",
-      "note": "CNN国际新闻频道",
+      "note": "CNN国际新闻频道,CNN 國際新聞台",
       "logo": "http://epg.51zmt.top:8000/tb1/gt/CNNNews.png"
     },
     {
@@ -4534,7 +4534,7 @@
       "name": "AXN",
       "status": "1",
       "note": "AXN",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/AXN.png"
+      "logo": "https://assets.livednow.com/logo/AXN.png"
     },
     {
       "tvid": "568",
@@ -4547,7 +4547,7 @@
     {
       "tvid": "569",
       "epgid": "CINEMAX",
-      "name": "CINEMAX",
+      "name": "CINEMAX,",
       "status": "1",
       "note": "CINEMAX",
       "logo": "http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png"
@@ -4566,7 +4566,7 @@
       "name": "FOX Sports 2",
       "status": "1",
       "note": "FOX Sports 2",
-      "logo": ""
+      "logo": "https://assets.livednow.com/logo/Fox-Sports-2.png"
     },
     {
       "tvid": "572",
@@ -4595,39 +4595,39 @@
     {
       "tvid": "575",
       "epgid": "AnimaxHD",
-      "name": "Animax HD",
+      "name": "Animax HD,Animax",
       "status": "1",
       "note": "Animax HD",
-      "logo": ""
+      "logo": "https://assets.livednow.com/logo/Animax-HK.png"
     },
     {
       "tvid": "576",
       "epgid": "ChannelNewsAsia",
-      "name": "亚洲新闻台,亚洲新闻",
+      "name": "亚洲新闻台,亚洲新闻,亞洲新聞台",
       "status": "1",
       "note": "亚洲新闻台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png"
+      "logo": "https://assets.livednow.com/logo/亞洲新聞台.png"
     },
     {
       "tvid": "577",
       "epgid": "BloombergTV",
-      "name": "彭博财经台,彭博财经",
+      "name": "彭博财经台,彭博财经,Bloomberg TV",
       "status": "1",
       "note": "彭博财经台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png"
+      "logo": "https://assets.livednow.com/logo/BloombergTV.png"
     },
     {
       "tvid": "578",
       "epgid": "ArirangTV",
-      "name": "韩国阿里郎",
+      "name": "韩国阿里郎,Arirang TV",
       "status": "1",
       "note": "韩国阿里郎",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png"
+      "logo": "https://assets.livednow.com/logo/Arirang-TV.png"
     },
     {
       "tvid": "579",
       "epgid": "BBCLifestyle",
-      "name": "BBC Lifestyle",
+      "name": "BBC Lifestyle,BBC Lifestyle",
       "status": "1",
       "note": "BBC Lifestyle",
       "logo": "http://epg.51zmt.top:8000/tb1/gt/BBCLifestyle.png"
@@ -4635,10 +4635,10 @@
     {
       "tvid": "580",
       "epgid": "DREAMWORKS",
-      "name": "梦工厂",
+      "name": "梦工厂,DreamWorks 夢工廠動畫",
       "status": "1",
       "note": "梦工厂",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/dreamworks.png"
+      "logo": "https://assets.livednow.com/logo/DreamWorks-夢工廠動畫.png"
     },
     {
       "tvid": "581",
@@ -4694,7 +4694,7 @@
       "name": "tvN",
       "status": "1",
       "note": "tvN",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/tvN.png"
+      "logo": "https://assets.livednow.com/logo/tvN-HK.png"
     },
     {
       "tvid": "588",
@@ -4731,10 +4731,10 @@
     {
       "tvid": "592",
       "epgid": "Discovery科学",
-      "name": "Discovery 科学频道",
+      "name": "Discovery 科学频道,Discovery Science",
       "status": "1",
       "note": "Discovery 科学频道",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/Discovery科学.png"
+      "logo": "https://assets.livednow.com/logo/Discovery-Science-TW.png"
     },
     {
       "tvid": "593",
@@ -4779,23 +4779,23 @@
     {
       "tvid": "598",
       "epgid": "Nickelodeon",
-      "name": "尼克儿童频道",
+      "name": "尼克儿童频道,Nickelodeon",
       "status": "1",
       "note": "尼克儿童频道",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/Nickelodeon.png"
+      "logo": "https://assets.livednow.com/logo/Nickelodeon.png"
     },
     {
       "tvid": "599",
       "epgid": "NickJr.",
-      "name": "小尼克频道",
+      "name": "小尼克频道,Nick Jr. 兒童頻道",
       "status": "1",
       "note": "小尼克频道",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/NickJr.png"
+      "logo": "https://assets.livednow.com/logo/Nick-Jr..png"
     },
     {
       "tvid": "600",
       "epgid": "CBeebies",
-      "name": "CBeebies",
+      "name": "CBeebies,BBC Cbeebies",
       "status": "1",
       "note": "CBeebies",
       "logo": "http://epg.51zmt.top:8000/tb1/gt/CBeebies.png"
@@ -4827,7 +4827,7 @@
     {
       "tvid": "604",
       "epgid": "CNNHeadlineNews",
-      "name": "CNN头条新闻台",
+      "name": "CNN头条新闻台,CNN 頭條新聞台(HLN)",
       "status": "1",
       "note": "CNN头条新闻台",
       "logo": "http://epg.51zmt.top:8000/tb1/gt/CNN.png"
@@ -4843,10 +4843,10 @@
     {
       "tvid": "606",
       "epgid": "爱尔达娱乐台",
-      "name": "爱尔达娱乐台",
+      "name": "爱尔达娱乐台,ELTA 娛樂台,愛爾達娛樂台",
       "status": "1",
       "note": "爱尔达娱乐台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/ELTA_Ent.png"
+      "logo": "https://assets.livednow.com/logo/ELTA娛樂.png"
     },
     {
       "tvid": "607",
@@ -4859,10 +4859,10 @@
     {
       "tvid": "608",
       "epgid": "History",
-      "name": "History 历史频道",
+      "name": "History 历史频道,History 歷史頻道",
       "status": "1",
       "note": "History 历史频道",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png"
+      "logo": "https://assets.livednow.com/logo/History-歷史頻道.png"
     },
     {
       "tvid": "609",
@@ -4875,18 +4875,18 @@
     {
       "tvid": "610",
       "epgid": "SMART知识频道",
-      "name": "SMART 知识频道",
+      "name": "SMART 知识频道,Smart 知識台",
       "status": "1",
       "note": "SMART 知识频道",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/Smart知识台.png"
+      "logo": "https://assets.livednow.com/logo/Smart-知識台.png"
     },
     {
       "tvid": "611",
       "epgid": "AMC",
-      "name": "AMC",
+      "name": "AMC,AMC 最愛電影",
       "status": "1",
       "note": "AMC",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/AMC.png"
+      "logo": "https://assets.livednow.com/logo/AMC.png"
     },
     {
       "tvid": "612",
@@ -4899,10 +4899,10 @@
     {
       "tvid": "613",
       "epgid": "aljazeera",
-      "name": "半岛国际新闻台",
+      "name": "半岛国际新闻台,半島國際新聞台",
       "status": "1",
       "note": "半岛国际新闻台",
-      "logo": "http://epg.51zmt.top:8000/tb1/gt/aljazeera.png"
+      "logo": "https://assets.livednow.com/logo/半島國際新聞台.png"
     },
     {
       "tvid": "614",
@@ -4919,6 +4919,2254 @@
       "status": "1",
       "note": "Animax",
       "logo": "http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png"
+    },
+    {
+      "tvid": "1001",
+      "epgid": "中国教育电视台-1",
+      "name": "中国教育电视台-1",
+      "status": "1",
+      "note": "中国教育电视台-1",
+      "logo": "https://live.fanmingming.com/tv/中国教育1台.png"
+    },
+    {
+      "tvid": "1002",
+      "epgid": "民視影劇台",
+      "name": "民視影劇台",
+      "status": "1",
+      "note": "民視影劇台",
+      "logo": "https://assets.livednow.com/logo/民視影劇台.png"
+    },
+    {
+      "tvid": "1003",
+      "epgid": "民視旅遊台",
+      "name": "民視旅遊台",
+      "status": "1",
+      "note": "民視旅遊台",
+      "logo": "https://live.fanmingming.com/tv/民视旅游台.png"
+    },    
+    {
+      "tvid": "1004",
+      "epgid": "中天亞洲台",
+      "name": "中天亞洲台",
+      "status": "1",
+      "note": "中天亞洲台",
+      "logo": "https://assets.livednow.com/logo/中天亞洲台.png"
+    },    
+    {
+      "tvid": "1005",
+      "epgid": "華視新聞",
+      "name": "華視新聞",
+      "status": "1",
+      "note": "華視新聞",
+      "logo": "https://live.fanmingming.com/tv/华视新闻.png"
+    },    
+    {
+      "tvid": "1006",
+      "epgid": "寰宇新聞台灣台",
+      "name": "寰宇新聞台灣台",
+      "status": "1",
+      "note": "寰宇新聞台灣台",
+      "logo": "https://assets.livednow.com/logo/寰宇新聞台灣台.png"
+    },    
+    {
+      "tvid": "1007",
+      "epgid": "TVBS 綜藝台",
+      "name": "TVBS 綜藝台",
+      "status": "1",
+      "note": "TVBS 綜藝台",
+      "logo": "https://fd.199301.xyz/https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_TVBS綜藝台_mobile-.png"
+    },
+    {
+      "tvid": "1008",
+      "epgid": "TVBS 台劇台",
+      "name": "TVBS 台劇台",
+      "status": "1",
+      "note": "TVBS 台劇台",
+      "logo": "https://fd.199301.xyz/https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_TVBS台劇台_mobile-.png"
+    },
+    {
+      "tvid": "1009",
+      "epgid": "八大精彩台",
+      "name": "八大精彩台",
+      "status": "1",
+      "note": "八大精彩台",
+      "logo": "https://assets.livednow.com/logo/八大精彩台.png"
+    },
+    {
+      "tvid": "1010",
+      "epgid": "八大綜藝台",
+      "name": "八大綜藝台",
+      "status": "1",
+      "note": "八大綜藝台",
+      "logo": "https://fd.199301.xyz/https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv039_mobile.png"
+    },
+    {
+      "tvid": "1011",
+      "epgid": "ELTA 生活旅遊",
+      "name": "ELTA 生活旅遊",
+      "status": "1",
+      "note": "ELTA 生活旅遊",
+      "logo": "https://fd.199301.xyz/https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live120_mobile.png"
+    },
+    {
+      "tvid": "1012",
+      "epgid": "ELTA生活英語",
+      "name": "ELTA生活英語",
+      "status": "1",
+      "note": "ELTA生活英語",
+      "logo": "https://assets.livednow.com/logo/ELTA生活英語.png"
+    },
+    {
+      "tvid": "1012",
+      "epgid": "鏡電視新聞台",
+      "name": "鏡電視新聞台",
+      "status": "1",
+      "note": "鏡電視新聞台",
+      "logo": "https://assets.livednow.com/logo/鏡電視新聞台.png"
+    },
+    {
+      "tvid": "1013",
+      "epgid": "GINX Esports TV",
+      "name": "GINX Esports TV",
+      "status": "1",
+      "note": "GINX Esports TV",
+      "logo": "https://assets.livednow.com/logo/GINX-Esports-TV.png"
+    },
+    {
+      "tvid": "1014",
+      "epgid": "TechStorm",
+      "name": "TechStorm",
+      "status": "1",
+      "note": "TechStorm",
+      "logo": "https://assets.livednow.com/logo/TechStorm.png"
+    },
+    {
+      "tvid": "1015",
+      "epgid": "時尚運動X",
+      "name": "時尚運動X",
+      "status": "1",
+      "note": "時尚運動X",
+      "logo": "https://assets.livednow.com/logo/時尚運動X.png"
+    },
+    {
+      "tvid": "1016",
+      "epgid": "公視戲劇台",
+      "name": "公視戲劇台",
+      "status": "1",
+      "note": "公視戲劇台",
+      "logo": "https://assets.livednow.com/logo/公視戲劇台.png"
+    },
+    {
+      "tvid": "1017",
+      "epgid": "戲劇免費看-1台",
+      "name": "戲劇免費看-1台",
+      "status": "1",
+      "note": "戲劇免費看-1台",
+      "logo": "https://assets.livednow.com/logo/戲劇免費看-1台.png"
+    },
+    {
+      "tvid": "1018",
+      "epgid": "戲劇免費看-2台",
+      "name": "戲劇免費看-2台",
+      "status": "1",
+      "note": "戲劇免費看-2台",
+      "logo": "https://fd.199301.xyz/https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live_mobile.png"
+    },
+    {
+      "tvid": "1019",
+      "epgid": "經典電影台",
+      "name": "經典電影台",
+      "status": "1",
+      "note": "經典電影台",
+      "logo": "https://assets.livednow.com/logo/經典電影台.png"
+    },
+    {
+      "tvid": "1020",
+      "epgid": "電影免費看 2台",
+      "name": "電影免費看 2台",
+      "status": "1",
+      "note": "電影免費看 2台",
+      "logo": "https://assets.livednow.com/logo/電影免費看-2台.png"
+    },
+    {
+      "tvid": "1021",
+      "epgid": "電影原聲台 CMusic",
+      "name": "電影原聲台 CMusic",
+      "status": "1",
+      "note": "電影原聲台 CMusic",
+      "logo": "https://assets.livednow.com/logo/電影原聲台CMusic.png"
+    },
+    {
+      "tvid": "1022",
+      "epgid": "花系列 經典劇場",
+      "name": "花系列 經典劇場",
+      "status": "1",
+      "note": "花系列 經典劇場",
+      "logo": "https://assets.livednow.com/logo/花系列-經典劇場.png"
+    },
+    {
+      "tvid": "1023",
+      "epgid": "兒童卡通台",
+      "name": "兒童卡通台",
+      "status": "1",
+      "note": "兒童卡通台",
+      "logo": "https://assets.livednow.com/logo/兒童卡通台.png"
+    },
+    {
+      "tvid": "1024",
+      "epgid": "精選動漫台",
+      "name": "精選動漫台",
+      "status": "1",
+      "note": "精選動漫台",
+      "logo": "https://assets.livednow.com/logo/精選動漫台.png"
+    },
+    {
+      "tvid": "1025",
+      "epgid": "經典卡通台",
+      "name": "經典卡通台",
+      "status": "1",
+      "note": "經典卡通台",
+      "logo": "https://assets.livednow.com/logo/經典卡通台.png"
+    },
+    {
+      "tvid": "1026",
+      "epgid": "Rock Action",
+      "name": "Rock Action",
+      "status": "1",
+      "note": "Rock Action",
+      "logo": "https://assets.livednow.com/logo/Rock-Action.png"
+    },
+    {
+      "tvid": "1027",
+      "epgid": "Rock Entertainment",
+      "name": "Rock Entertainment,ROCK 綜藝娛樂",
+      "status": "1",
+      "note": "Rock Entertainment",
+      "logo": "https://assets.livednow.com/logo/Rock-Entertainment.png"
+    },
+    {
+      "tvid": "1028",
+      "epgid": "金光布袋戲",
+      "name": "金光布袋戲",
+      "status": "1",
+      "note": "金光布袋戲",
+      "logo": "https://assets.livednow.com/logo/金光布袋戲.png"
+    },
+    {
+      "tvid": "1029",
+      "epgid": "霹靂布袋戲",
+      "name": "霹靂布袋戲",
+      "status": "1",
+      "note": "霹靂布袋戲",
+      "logo": "https://fd.199301.xyz/https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live145_mobile.png"
+    },
+    {
+      "tvid": "1030",
+      "epgid": "超人力霸王整套看",
+      "name": "超人力霸王整套看",
+      "status": "1",
+      "note": "超人力霸王整套看",
+      "logo": "https://assets.livednow.com/logo/超人力霸王整套看.png"
+    },
+    {
+      "tvid": "1031",
+      "epgid": "LiveABC 互動英語台",
+      "name": "LiveABC 互動英語台",
+      "status": "1",
+      "note": "LiveABC 互動英語台",
+      "logo": "https://assets.livednow.com/logo/LiveABC-互動英語台.png"
+    },
+    {
+      "tvid": "1032",
+      "epgid": "Classica 古典樂",
+      "name": "Classica 古典樂",
+      "status": "1",
+      "note": "Classica 古典樂",
+      "logo": "https://assets.livednow.com/logo/Classica-古典樂.png"
+    },
+    {
+      "tvid": "1033",
+      "epgid": "豬哥亮歌廳秀",
+      "name": "豬哥亮歌廳秀",
+      "status": "1",
+      "note": "豬哥亮歌廳秀",
+      "logo": "https://assets.livednow.com/logo/豬哥亮歌廳秀.png"
+    },
+    {
+      "tvid": "1034",
+      "epgid": "Global Trekker",
+      "name": "Global Trekker",
+      "status": "1",
+      "note": "Global Trekker",
+      "logo": "https://assets.livednow.com/logo/Global-Trekker.png"
+    },
+    {
+      "tvid": "1035",
+      "epgid": "Globetrotter 環遊旅行家",
+      "name": "Globetrotter 環遊旅行家",
+      "status": "1",
+      "note": "Globetrotter 環遊旅行家",
+      "logo": "https://assets.livednow.com/logo/Globetrotter-環遊旅行家.png"
+    },
+    {
+      "tvid": "1036",
+      "epgid": "Pet Club TV",
+      "name": "Pet Club TV",
+      "status": "1",
+      "note": "Pet Club TV",
+      "logo": "https://assets.livednow.com/logo/Pet-Club-TV.png"
+    },
+    {
+      "tvid": "1037",
+      "epgid": "TV5MONDE Style",
+      "name": "TV5MONDE Style",
+      "status": "1",
+      "note": "TV5MONDE Style",
+      "logo": "https://assets.livednow.com/logo/TV5MONDE-Style.png"
+    },
+    {
+      "tvid": "1038",
+      "epgid": "車迷 TV",
+      "name": "車迷 TV",
+      "status": "1",
+      "note": "車迷 TV",
+      "logo": "https://assets.livednow.com/logo/車迷-TV.png"
+    },
+    {
+      "tvid": "1039",
+      "epgid": "Love Nature",
+      "name": "Love Nature,Love Nature 4K",
+      "status": "1",
+      "note": "Love Nature",
+      "logo": "https://assets.livednow.com/logo/Love-Nature.png"
+    },
+    {
+      "tvid": "1041",
+      "epgid": "Fun 探索娛樂台",
+      "name": "Fun 探索娛樂台",
+      "status": "1",
+      "note": "Fun 探索娛樂台",
+      "logo": "https://assets.livednow.com/logo/Fun-探索娛樂台.png"
+    },
+    {
+      "tvid": "1042",
+      "epgid": "幸福空間居家台",
+      "name": "幸福空間居家台",
+      "status": "1",
+      "note": "幸福空間居家台",
+      "logo": "https://assets.livednow.com/logo/幸福空間居家台.png"
+    },
+    {
+      "tvid": "1043",
+      "epgid": "VOA 美國之音",
+      "name": "VOA 美國之音",
+      "status": "1",
+      "note": "VOA 美國之音",
+      "logo": "https://assets.livednow.com/logo/VOA-美國之音.png"
+    },
+    {
+      "tvid": "1044",
+      "epgid": "第1商業台",
+      "name": "第1商業台",
+      "status": "1",
+      "note": "第1商業台",
+      "logo": "https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv104_tv.png"
+    },
+    {
+      "tvid": "1045",
+      "epgid": "視納華仁紀實頻道",
+      "name": "視納華仁紀實頻道",
+      "status": "1",
+      "note": "視納華仁紀實頻道",
+      "logo": "https://assets.livednow.com/logo/視納華仁紀實頻道.png"
+    },
+    {
+      "tvid": "1046",
+      "epgid": "國會頻道1",
+      "name": "國會頻道1",
+      "status": "1",
+      "note": "國會頻道1",
+      "logo": "https://assets.livednow.com/logo/國會頻道1.png"
+    },
+    {
+      "tvid": "1047",
+      "epgid": "國會頻道2",
+      "name": "國會頻道2",
+      "status": "1",
+      "note": "國會頻道2",
+      "logo": "https://assets.livednow.com/logo/國會頻道2.png"
+    },
+    {
+      "tvid": "1048",
+      "epgid": "東森購物一台",
+      "name": "東森購物一台",
+      "status": "1",
+      "note": "東森購物一台",
+      "logo": "https://assets.livednow.com/logo/東森購物.png"
+    },
+    {
+      "tvid": "1049",
+      "epgid": "東森購物二台",
+      "name": "東森購物二台",
+      "status": "1",
+      "note": "東森購物二台",
+      "logo": "https://assets.livednow.com/logo/東森購物.png"
+    },
+    {
+      "tvid": "1050",
+      "epgid": "東森購物三台",
+      "name": "東森購物三台",
+      "status": "1",
+      "note": "東森購物三台",
+      "logo": "https://assets.livednow.com/logo/東森購物.png"
+    },
+    {
+      "tvid": "1051",
+      "epgid": "東森購物四台",
+      "name": "東森購物四台",
+      "status": "1",
+      "note": "東森購物四台",
+      "logo": "https://assets.livednow.com/logo/東森購物.png"
+    },
+    {
+      "tvid": "1052",
+      "epgid": "TNT Sport 1",
+      "name": "TNT Sport 1",
+      "status": "1",
+      "note": "TNT Sport 1",
+      "logo": "https://assets.livednow.com/logo/TNT-Sports-1.png"
+    },
+    {
+      "tvid": "1053",
+      "epgid": "TNT Sport 2",
+      "name": "TNT Sport 2",
+      "status": "1",
+      "note": "TNT Sport 2",
+      "logo": "https://assets.livednow.com/logo/TNT-Sports-2.png"
+    },
+    {
+      "tvid": "1054",
+      "epgid": "TNT Sport 3",
+      "name": "TNT Sport 3",
+      "status": "1",
+      "note": "TNT Sport 3",
+      "logo": "https://assets.livednow.com/logo/TNT-Sports-3.png"
+    },
+    {
+      "tvid": "1055",
+      "epgid": "TNT Sport 4",
+      "name": "TNT Sport 4",
+      "status": "1",
+      "note": "TNT Sport 4",
+      "logo": "https://assets.livednow.com/logo/TNT-Sports-4.png"
+    },
+    {
+      "tvid": "1056",
+      "epgid": "Sky Sports Football",
+      "name": "Sky Sports Football",
+      "status": "1",
+      "note": "Sky Sports Football",
+      "logo": "https://assets.livednow.com/logo/Sky-Sports-Football.png"
+    },
+    {
+      "tvid": "1057",
+      "epgid": "Sky Sports Main Event",
+      "name": "Sky Sports Main Event",
+      "status": "1",
+      "note": "Sky Sports Main Event",
+      "logo": "https://assets.livednow.com/logo/Sky-Sports-Main-Event.png"
+    },
+    {
+      "tvid": "1058",
+      "epgid": "Sky Sports Premier League",
+      "name": "Sky Sports Premier League",
+      "status": "1",
+      "note": "Sky Sports Premier League",
+      "logo": "https://assets.livednow.com/logo/Sky-Sports-Premier-League.png"
+    },
+    {
+      "tvid": "1059",
+      "epgid": "Sky Sports Action",
+      "name": "Sky Sports Action",
+      "status": "1",
+      "note": "Sky Sports Action",
+      "logo": "https://assets.livednow.com/logo/Sky-Sports-Action.png"
+    },
+    {
+      "tvid": "1060",
+      "epgid": "Sky Sports Mix",
+      "name": "Sky Sports Mix",
+      "status": "1",
+      "note": "Sky Sports Mix",
+      "logo": "https://assets.livednow.com/logo/Sky-Sports-Mix.png"
+    },
+    {
+      "tvid": "1061",
+      "epgid": "Sky Sports Arena",
+      "name": "Sky Sports Arena",
+      "status": "1",
+      "note": "Sky Sports Arena",
+      "logo": "https://assets.livednow.com/logo/Sky-Sports-Arena.png"
+    },
+    {
+      "tvid": "1062",
+      "epgid": "Sky Sports News",
+      "name": "Sky Sports News",
+      "status": "1",
+      "note": "Sky Sports News",
+      "logo": "https://assets.livednow.com/logo/Sky-Sports-News.png"
+    },
+    {
+      "tvid": "1063",
+      "epgid": "Sky Sports Cricket",
+      "name": "Sky Sports Cricket",
+      "status": "1",
+      "note": "Sky Sports Cricket",
+      "logo": "https://assets.livednow.com/logo/Sky-Sports-Cricket.png"
+    },
+    {
+      "tvid": "1064",
+      "epgid": "Sky Sports Tennis",
+      "name": "Sky Sports Tennis",
+      "status": "1",
+      "note": "Sky Sports Tennis",
+      "logo": "https://assets.livednow.com/logo/Sky-Sports-Tennis.png"
+    },
+    {
+      "tvid": "1065",
+      "epgid": "Sky Sports F1",
+      "name": "Sky Sports F1",
+      "status": "1",
+      "note": "Sky Sports F1",
+      "logo": "https://assets.livednow.com/logo/Sky-Sports-F1.png"
+    },
+    {
+      "tvid": "1066",
+      "epgid": "Sky Sports Golf",
+      "name": "Sky Sports Golf",
+      "status": "1",
+      "note": "Sky Sports Golf",
+      "logo": "https://assets.livednow.com/logo/Sky-Sports-Golf.png"
+    },
+    {
+      "tvid": "1067",
+      "epgid": "Sky Sports Racing",
+      "name": "Sky Sports Racing",
+      "status": "1",
+      "note": "Sky Sports Racing",
+      "logo": "https://assets.livednow.com/logo/Sky-Sports-Racing.png"
+    },
+    {
+      "tvid": "1068",
+      "epgid": "Tennis Channel",
+      "name": "Tennis Channel",
+      "status": "1",
+      "note": "Tennis Channel",
+      "logo": "https://assets.livednow.com/logo/Tennis-Channel.png"
+    },
+    {
+      "tvid": "1069",
+      "epgid": "LaLiga TV",
+      "name": "LaLiga TV",
+      "status": "1",
+      "note": "LaLiga TV",
+      "logo": "https://assets.livednow.com/logo/La-Liga-TV.png"
+    },
+    {
+      "tvid": "1070",
+      "epgid": "HBO 1",
+      "name": "HBO 1",
+      "status": "1",
+      "note": "HBO 1",
+      "logo": "https://assets.livednow.com/logo/HBO.png"
+    },
+    {
+      "tvid": "1071",
+      "epgid": "HBO 2",
+      "name": "HBO 2",
+      "status": "1",
+      "note": "HBO 2",
+      "logo": "https://assets.livednow.com/logo/HBO-2.png"
+    },
+    {
+      "tvid": "1072",
+      "epgid": "Discovery Channel",
+      "name": "Discovery Channel",
+      "status": "1",
+      "note": "Discovery Channel",
+      "logo": "https://assets.livednow.com/logo/Discovery-Channel.png"
+    },
+    {
+      "tvid": "1073",
+      "epgid": "Discovery Life",
+      "name": "Discovery Life",
+      "status": "1",
+      "note": "Discovery Life",
+      "logo": "https://assets.livednow.com/logo/Discovery-Life.png"
+    },
+    {
+      "tvid": "1074",
+      "epgid": "Cinemax West",
+      "name": "Cinemax West",
+      "status": "1",
+      "note": "Cinemax West",
+      "logo": "https://assets.livednow.com/logo/Cinemax-West.png"
+    },
+    {
+      "tvid": "1075",
+      "epgid": "Great Movies",
+      "name": "Great Movies",
+      "status": "1",
+      "note": "Great Movies",
+      "logo": "https://assets.livednow.com/logo/UK-Great-Movies.png"
+    },
+    {
+      "tvid": "1076",
+      "epgid": "Sky Cinema Comedy",
+      "name": "Sky Cinema Comedy",
+      "status": "1",
+      "note": "Sky Cinema Comedy",
+      "logo": "https://assets.livednow.com/logo/UK-Sky-Cinema-Comedy.png"
+    },
+    {
+      "tvid": "1077",
+      "epgid": "Sky Cinema Family",
+      "name": "Sky Cinema Family",
+      "status": "1",
+      "note": "Sky Cinema Family",
+      "logo": "https://assets.livednow.com/logo/UK-Sky-Cinema-Family.png"
+    },
+    {
+      "tvid": "1078",
+      "epgid": "Cartoon Network",
+      "name": "Cartoon Network",
+      "status": "1",
+      "note": "Cartoon Network",
+      "logo": "https://assets.livednow.com/logo/UK-Cartoon-Network.png"
+    },
+    {
+      "tvid": "1079",
+      "epgid": "Virgin 1",
+      "name": "Virgin 1",
+      "status": "1",
+      "note": "Virgin 1",
+      "logo": "https://assets.livednow.com/logo/UK-Virgin-1.png"
+    },
+    {
+      "tvid": "1080",
+      "epgid": "Virgin 2",
+      "name": "Virgin 2",
+      "status": "1",
+      "note": "Virgin 2",
+      "logo": "https://assets.livednow.com/logo/UK-Virgin-2.png"
+    },
+    {
+      "tvid": "1081",
+      "epgid": "Virgin 3",
+      "name": "Virgin 3",
+      "status": "1",
+      "note": "Virgin 3",
+      "logo": "https://assets.livednow.com/logo/UK-Virgin-3.png"
+    },
+    {
+      "tvid": "1082",
+      "epgid": "DAZN",
+      "name": "DAZN",
+      "status": "1",
+      "note": "DAZN",
+      "logo": "https://assets.livednow.com/logo/DAZN.png"
+    },
+    {
+      "tvid": "1083",
+      "epgid": "Bein Sports USA",
+      "name": "Bein Sports USA",
+      "status": "1",
+      "note": "Bein Sports USA",
+      "logo": "https://assets.livednow.com/logo/Bein-Sports-USA.png"
+    },
+    {
+      "tvid": "1084",
+      "epgid": "Bein Sports English 2",
+      "name": "Bein Sports English 2",
+      "status": "1",
+      "note": "Bein Sports English 2",
+      "logo": "https://assets.livednow.com/logo/Bein-Sports-English-2.png"
+    },
+    {
+      "tvid": "1085",
+      "epgid": "SuperSport Premier League",
+      "name": "SuperSport Premier League",
+      "status": "1",
+      "note": "SuperSport Premier League",
+      "logo": "https://assets.livednow.com/logo/SuperSport-Premier-League.png"
+    },
+    {
+      "tvid": "1086",
+      "epgid": "SuperSport LaLiga",
+      "name": "SuperSport LaLiga",
+      "status": "1",
+      "note": "SuperSport LaLiga",
+      "logo": "https://assets.livednow.com/logo/SuperSport-LaLiga.png"
+    },
+    {
+      "tvid": "1087",
+      "epgid": "SuperSport Action",
+      "name": "SuperSport Action",
+      "status": "1",
+      "note": "SuperSport Action",
+      "logo": "https://assets.livednow.com/logo/SuperSport-Action.png"
+    },
+    {
+      "tvid": "1088",
+      "epgid": "SuperSport Blitz",
+      "name": "SuperSport Blitz",
+      "status": "1",
+      "note": "SuperSport Blitz",
+      "logo": "https://assets.livednow.com/logo/SuperSport-Blitz.png"
+    },
+    {
+      "tvid": "1089",
+      "epgid": "SuperSport Cricket",
+      "name": "SuperSport Cricket",
+      "status": "1",
+      "note": "SuperSport Cricket",
+      "logo": "https://assets.livednow.com/logo/SuperSport-Cricket.png"
+    },
+    {
+      "tvid": "1090",
+      "epgid": "SuperSport Football",
+      "name": "SuperSport Football",
+      "status": "1",
+      "note": "SuperSport Football",
+      "logo": "https://assets.livednow.com/logo/SuperSport-Football.png"
+    },
+    {
+      "tvid": "1091",
+      "epgid": "SuperSport Golf",
+      "name": "SuperSport Golf",
+      "status": "1",
+      "note": "SuperSport Golf",
+      "logo": "https://assets.livednow.com/logo/SuperSport-Golf.png"
+    },
+    {
+      "tvid": "1092",
+      "epgid": "SuperSport Rugby",
+      "name": "SuperSport Rugby",
+      "status": "1",
+      "note": "SuperSport Rugby",
+      "logo": "https://assets.livednow.com/logo/SuperSport-Rugby.png"
+    },
+    {
+      "tvid": "1093",
+      "epgid": "SuperSport Tennis",
+      "name": "SuperSport Tennis",
+      "status": "1",
+      "note": "SuperSport Tennis",
+      "logo": "https://assets.livednow.com/logo/SuperSport-Tennis.png"
+    },
+    {
+      "tvid": "1094",
+      "epgid": "Variety 1",
+      "name": "Variety 1",
+      "status": "1",
+      "note": "Variety 1",
+      "logo": "https://assets.livednow.com/logo/Variety-1.png"
+    },
+	{
+	  "tvid": "1095",
+	  "epgid": "Variety 2",
+	  "name": "Variety 2",
+	  "status": "1",
+	  "note": "Variety 2",
+	  "logo": "https://assets.livednow.com/logo/Variety-2.png"
+	},
+	{
+	  "tvid": "1096",
+	  "epgid": "Variety 3",
+	  "name": "Variety 3",
+	  "status": "1",
+	  "note": "Variety 3",
+	  "logo": "https://assets.livednow.com/logo/Variety-3.png"
+	},
+	{
+	  "tvid": "1097",
+	  "epgid": "Variety 4",
+	  "name": "Variety 4",
+	  "status": "1",
+	  "note": "Variety 4",
+	  "logo": "https://assets.livednow.com/logo/Variety-4.png"
+	},
+	{
+	  "tvid": "1098",
+	  "epgid": "Eurosport 1",
+	  "name": "Eurosport 1",
+	  "status": "1",
+	  "note": "Eurosport 1",
+	  "logo": "https://assets.livednow.com/logo/Eurosport-1.png"
+	},
+	{
+	  "tvid": "1099",
+	  "epgid": "Eurosport 2",
+	  "name": "Eurosport 2",
+	  "status": "1",
+	  "note": "Eurosport 2",
+	  "logo": "https://assets.livednow.com/logo/Eurosport-2.png"
+	},
+	{
+	  "tvid": "1100",
+	  "epgid": "Premier Sports 1",
+	  "name": "Premier Sports 1",
+	  "status": "1",
+	  "note": "Premier Sports 1",
+	  "logo": "https://assets.livednow.com/logo/Premier-Sports-1.png"
+	},
+	{
+	  "tvid": "1101",
+	  "epgid": "Premier Sports 2",
+	  "name": "Premier Sports 2",
+	  "status": "1",
+	  "note": "Premier Sports 2",
+	  "logo": "https://assets.livednow.com/logo/Premier-Sports-2.png"
+	},
+	{
+	  "tvid": "1102",
+	  "epgid": "Golf Channel",
+	  "name": "Golf Channel",
+	  "status": "1",
+	  "note": "Golf Channel",
+	  "logo": "https://assets.livednow.com/logo/Golf-Channel.png"
+	},
+	{
+	  "tvid": "1103",
+	  "epgid": "MLB Network",
+	  "name": "MLB Network",
+	  "status": "1",
+	  "note": "MLB Network",
+	  "logo": "https://assets.livednow.com/logo/MLB-Network.png"
+	},
+	{
+	  "tvid": "1104",
+	  "epgid": "NBA TV",
+	  "name": "NBA TV",
+	  "status": "1",
+	  "note": "NBA TV",
+	  "logo": "https://assets.livednow.com/logo/NBA-TV.png"
+	},
+	{
+	  "tvid": "1105",
+	  "epgid": "NFL Network",
+	  "name": "NFL Network",
+	  "status": "1",
+	  "note": "NFL Network",
+	  "logo": "https://assets.livednow.com/logo/NFL-Network.png"
+	},
+	{
+	  "tvid": "1106",
+	  "epgid": "NFL Redzone",
+	  "name": "NFL Redzone",
+	  "status": "1",
+	  "note": "NFL Redzone",
+	  "logo": "https://assets.livednow.com/logo/NFL-REDZONE.png"
+	},
+	{
+	  "tvid": "1107",
+	  "epgid": "NHL Network",
+	  "name": "NHL Network",
+	  "status": "1",
+	  "note": "NHL Network",
+	  "logo": "https://assets.livednow.com/logo/NHL-Network.png"
+	},
+	{
+	  "tvid": "1108",
+	  "epgid": "WWE",
+	  "name": "WWE",
+	  "status": "1",
+	  "note": "WWE",
+	  "logo": "https://assets.livednow.com/logo/WWE.png"
+	},
+	{
+	  "tvid": "1109",
+	  "epgid": "Willow Cricket",
+	  "name": "Willow Cricket",
+	  "status": "1",
+	  "note": "Willow Cricket",
+	  "logo": "https://assets.livednow.com/logo/Willow-Cricket.png"
+	},
+	{
+	  "tvid": "1110",
+	  "epgid": "Willow Extra",
+	  "name": "Willow Extra",
+	  "status": "1",
+	  "note": "Willow Extra",
+	  "logo": "https://assets.livednow.com/logo/Willow-Extra.png"
+	},
+	{
+	  "tvid": "1111",
+	  "epgid": "World Fishing Network",
+	  "name": "World Fishing Network",
+	  "status": "1",
+	  "note": "World Fishing Network",
+	  "logo": "https://assets.livednow.com/logo/World-Fishing-Network.png"
+	},
+	{
+	  "tvid": "1112",
+	  "epgid": "Fight Network",
+	  "name": "Fight Network",
+	  "status": "1",
+	  "note": "Fight Network",
+	  "logo": "https://assets.livednow.com/logo/Fight-Network.png"
+	},
+	{
+	  "tvid": "1113",
+	  "epgid": "ESPN",
+	  "name": "ESPN",
+	  "status": "1",
+	  "note": "ESPN",
+	  "logo": "https://assets.livednow.com/logo/ESPN.png"
+	},
+	{
+	  "tvid": "1114",
+	  "epgid": "ESPN 2",
+	  "name": "ESPN 2",
+	  "status": "1",
+	  "note": "ESPN 2",
+	  "logo": "https://assets.livednow.com/logo/ESPN-2.png"
+	},
+	{
+	  "tvid": "1115",
+	  "epgid": "ESPN News",
+	  "name": "ESPN News",
+	  "status": "1",
+	  "note": "ESPN News",
+	  "logo": "https://assets.livednow.com/logo/ESPN-News.png"
+	},
+	{
+	  "tvid": "1116",
+	  "epgid": "ESPN U",
+	  "name": "ESPN U",
+	  "status": "1",
+	  "note": "ESPN U",
+	  "logo": "https://assets.livednow.com/logo/ESPN-U.png"
+	},
+	{
+	  "tvid": "1117",
+	  "epgid": "ITV 1",
+	  "name": "ITV 1",
+	  "status": "1",
+	  "note": "ITV 1",
+	  "logo": "https://assets.livednow.com/logo/ITV-1.png"
+	},
+	{
+	  "tvid": "1118",
+	  "epgid": "ITV 2",
+	  "name": "ITV 2",
+	  "status": "1",
+	  "note": "ITV 2",
+	  "logo": "https://assets.livednow.com/logo/ITV-2.png"
+	},
+    {
+      "tvid": "1119",
+      "epgid": "ITV 3",
+      "name": "ITV 3",
+      "status": "1",
+      "note": "ITV 3",
+      "logo": "https://assets.livednow.com/logo/ITV-3.png"
+    },
+    {
+      "tvid": "1120",
+      "epgid": "ITV 4",
+      "name": "ITV 4",
+      "status": "1",
+      "note": "ITV 4",
+      "logo": "https://assets.livednow.com/logo/ITV-4.png"
+    },
+    {
+      "tvid": "1121",
+      "epgid": "MUTV",
+      "name": "MUTV",
+      "status": "1",
+      "note": "MUTV",
+      "logo": "https://assets.livednow.com/logo/MUTV.png"
+    },
+    {
+      "tvid": "1122",
+      "epgid": "LFC TV",
+      "name": "LFC TV",
+      "status": "1",
+      "note": "LFC TV",
+      "logo": "https://assets.livednow.com/logo/LFC-TV.png"
+    },
+    {
+      "tvid": "1123",
+      "epgid": "ACC Network",
+      "name": "ACC Network",
+      "status": "1",
+      "note": "ACC Network",
+      "logo": "https://assets.livednow.com/logo/ACC-Network.png"
+    },
+    {
+      "tvid": "1124",
+      "epgid": "CBS Sports Network",
+      "name": "CBS Sports Network",
+      "status": "1",
+      "note": "CBS Sports Network",
+      "logo": "https://assets.livednow.com/logo/CBS-Sports-Network.png"
+    },
+    {
+      "tvid": "1125",
+      "epgid": "CNBC",
+      "name": "CNBC",
+      "status": "1",
+      "note": "CNBC",
+      "logo": "https://assets.livednow.com/logo/CNBC.png"
+    },
+    {
+      "tvid": "1126",
+      "epgid": "Fox Sports 1",
+      "name": "Fox Sports 1",
+      "status": "1",
+      "note": "Fox Sports 1",
+      "logo": "https://assets.livednow.com/logo/Fox-Sports-1.png"
+    },
+    {
+      "tvid": "1127",
+      "epgid": "華語劇台",
+      "name": "華語劇台",
+      "status": "1",
+      "note": "華語劇台",
+      "logo": "https://assets.livednow.com/logo/華語劇台.png"
+    },
+    {
+      "tvid": "1128",
+      "epgid": "黃金翡翠台",
+      "name": "黃金翡翠台",
+      "status": "1",
+      "note": "黃金翡翠台",
+      "logo": "https://assets.livednow.com/logo/黃金翡翠台.png"
+    },	
+    {
+      "tvid": "1129",
+      "epgid": "CRI EZFM",
+      "name": "CRI EZFM",
+      "status": "1",
+      "note": "CRI EZFM",
+      "logo": "http://ezfm.cri.cn/static/img/radio-ez-img.7784316.png"
+    },
+    {
+      "tvid": "1130",
+      "epgid": "KEXP",
+      "name": "KEXP",
+      "status": "1",
+      "note": "KEXP",
+      "logo": "https://cdn-profiles.tunein.com/s32537/images/logod.png"
+    },
+    {
+      "tvid": "1131",
+      "epgid": "NTS Radio 1",
+      "name": "NTS Radio 1",
+      "status": "1",
+      "note": "NTS Radio 1",
+      "logo": "https://cdn-profiles.tunein.com/s150238/images/logod.jpg"
+    },
+    {
+      "tvid": "1132",
+      "epgid": "NTS Radio 2",
+      "name": "NTS Radio 2",
+      "status": "1",
+      "note": "NTS Radio 2",
+      "logo": "https://cdn-profiles.tunein.com/s286827/images/logod.jpg"
+    },
+    {
+      "tvid": "1133",
+      "epgid": "HIT FM",
+      "name": "HIT FM",
+      "status": "1",
+      "note": "CRI HIT FM",
+      "logo": "https://live.fanmingming.com/radio/hitfm联播网.png"
+    },
+    {
+      "tvid": "1134",
+      "epgid": "RNE Radio 3",
+      "name": "RNE Radio 3",
+      "status": "1",
+      "note": "RNE Radio 3",
+      "logo": "https://cdn-radiotime-logos.tunein.com/s9753d.png"
+    },
+    {
+      "tvid": "1135",
+      "epgid": "KISS FM",
+      "name": "KISS FM",
+      "status": "1",
+      "note": "KISS FM",
+      "logo": "https://cdn-profiles.tunein.com/s6055/images/logod.jpg"
+    },
+    {
+      "tvid": "1136",
+      "epgid": "法国国际广播电台",
+      "name": "法国国际广播电台",
+      "status": "1",
+      "note": "法国国际广播电台",
+      "logo": "https://cdn-profiles.tunein.com/s102560/images/logod.png"
+    },
+    {
+      "tvid": "1137",
+      "epgid": "美国之音",
+      "name": "美国之音",
+      "status": "1",
+      "note": "美国之音",
+      "logo": "https://live.fanmingming.com/radio/美国之音.png"
+    },
+    {
+      "tvid": "1138",
+      "epgid": "自由亚洲电台",
+      "name": "自由亚洲电台",
+      "status": "1",
+      "note": "自由亚洲电台",
+      "logo": "https://live.fanmingming.com/radio/自由亚洲电台.png"
+    },
+    {
+      "tvid": "1139",
+      "epgid": "湖南文艺广播·摩登音乐台",
+      "name": "湖南文艺广播·摩登音乐台",
+      "status": "1",
+      "note": "湖南文艺广播·摩登音乐台",
+      "logo": "https://live.fanmingming.com/radio/摩登音乐台.png"
+    },
+    {
+      "tvid": "1140",
+      "epgid": "宁波音乐广播",
+      "name": "宁波音乐广播",
+      "status": "1",
+      "note": "宁波音乐广播",
+      "logo": "https://live.fanmingming.com/radio/宁波音乐广播.png"
+    },
+    {
+      "tvid": "1141",
+      "epgid": "深圳飞扬971",
+      "name": "深圳飞扬971",
+      "status": "1",
+      "note": "深圳飞扬971",
+      "logo": "https://live.fanmingming.com/radio/深圳飞扬971.png"
+    },
+    {
+      "tvid": "1142",
+      "epgid": "中廣音樂網",
+      "name": "中廣音樂網",
+      "status": "1",
+      "note": "中廣音樂網",
+      "logo": "https://live.fanmingming.com/radio/中广音乐网.png"
+    },
+    {
+      "tvid": "1143",
+      "epgid": "93交通之声",
+      "name": "93交通之声",
+      "status": "1",
+      "note": "浙江交通之声",
+      "logo": "https://live.fanmingming.com/radio/浙江交通之声.png"
+    },
+    {
+      "tvid": "1144",
+      "epgid": "BBC World Service",
+      "name": "BBC World Service",
+      "status": "1",
+      "note": "BBC World Service",
+      "logo": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/Lz9bbsba4c.png"
+    },
+    {
+      "tvid": "1145",
+      "epgid": "BBC Radio 1",
+      "name": "BBC Radio 1",
+      "status": "1",
+      "note": "BBC Radio 1",
+      "logo": "https://live.fanmingming.com/radio/bbc1.png"
+    },
+    {
+      "tvid": "1146",
+      "epgid": "BBC Radio 1 Dance",
+      "name": "BBC Radio 1 Dance",
+      "status": "1",
+      "note": "BBC Radio 1 Dance",
+      "logo": "https://live.fanmingming.com/radio/bbc1dance.png"
+    },
+    {
+      "tvid": "1147",
+      "epgid": "BBC Radio 2",
+      "name": "BBC Radio 2",
+      "status": "1",
+      "note": "BBC Radio 2",
+      "logo": "https://live.fanmingming.com/radio/bbc2.png"
+    },
+    {
+      "tvid": "1148",
+      "epgid": "BBC Radio 3",
+      "name": "BBC Radio 3",
+      "status": "1",
+      "note": "BBC Radio 3",
+      "logo": "https://live.fanmingming.com/radio/bbc3.png"
+    },
+    {
+      "tvid": "1149",
+      "epgid": "BBC Radio 4",
+      "name": "BBC Radio 4",
+      "status": "1",
+      "note": "BBC Radio 4",
+      "logo": "https://live.fanmingming.com/radio/bbc4.png"
+    },
+    {
+      "tvid": "1150",
+      "epgid": "BBC Radio 4 Extra",
+      "name": "BBC Radio 4 Extra",
+      "status": "1",
+      "note": "BBC Radio 4 Extra",
+      "logo": "https://live.fanmingming.com/radio/bbc4extra.png"
+    },
+    {
+      "tvid": "1151",
+      "epgid": "BBC Radio 5 live",
+      "name": "BBC Radio 5 live",
+      "status": "1",
+      "note": "BBC Radio 5 live",
+      "logo": "https://live.fanmingming.com/radio/bbc5.png"
+    },
+    {
+      "tvid": "1152",
+      "epgid": "BBC Radio 6",
+      "name": "BBC Radio 6",
+      "status": "1",
+      "note": "BBC Radio 6",
+      "logo": "https://live.fanmingming.com/radio/bbc6.png"
+    },
+    {
+      "tvid": "1153",
+      "epgid": "A&E",
+      "name": "A&E",
+      "status": "1",
+      "note": "A&E",
+      "logo": "https://assets.livednow.com/logo/AE.png"
+    },
+    {
+      "tvid": "1154",
+      "epgid": "AMC",
+      "name": "AMC",
+      "status": "1",
+      "note": "AMC",
+      "logo": "https://assets.livednow.com/logo/AMC.png"
+    },
+    {
+      "tvid": "1155",
+      "epgid": "American Heroes Channel",
+      "name": "American Heroes Channel",
+      "status": "1",
+      "note": "American Heroes Channel",
+      "logo": "https://assets.livednow.com/logo/American-Heroes-Channel.png"
+    },
+    {
+      "tvid": "1156",
+      "epgid": "Animal Planet",
+      "name": "Animal Planet",
+      "status": "1",
+      "note": "Animal Planet",
+      "logo": "https://assets.livednow.com/logo/Animal-Planet.png"
+    },
+    {
+      "tvid": "1157",
+      "epgid": "BBC America",
+      "name": "BBC America",
+      "status": "1",
+      "note": "BBC America",
+      "logo": "https://assets.livednow.com/logo/BBC-America.png"
+    },
+    {
+      "tvid": "1158",
+      "epgid": "Cartoonito",
+      "name": "Cartoonito",
+      "status": "1",
+      "note": "Cartoonito",
+      "logo": "https://assets.livednow.com/logo/Cartoonito.png"
+    },
+    {
+      "tvid": "1159",
+      "epgid": "BET",
+      "name": "BET",
+      "status": "1",
+      "note": "BET",
+      "logo": "https://assets.livednow.com/logo/BET.png"
+    },
+    {
+      "tvid": "1160",
+      "epgid": "BET Her",
+      "name": "BET Her",
+      "status": "1",
+      "note": "BET Her",
+      "logo": "https://assets.livednow.com/logo/BET-Her.png"
+    },
+    {
+      "tvid": "1161",
+      "epgid": "Boomerang",
+      "name": "Boomerang",
+      "status": "1",
+      "note": "Boomerang",
+      "logo": "https://assets.livednow.com/logo/Boomerang.png"
+    },
+    {
+      "tvid": "1162",
+      "epgid": "Bravo",
+      "name": "Bravo",
+      "status": "1",
+      "note": "Bravo",
+      "logo": "https://assets.livednow.com/logo/Bravo.png"
+    },
+    {
+      "tvid": "1163",
+      "epgid": "Cinemax",
+      "name": "Cinemax",
+      "status": "1",
+      "note": "Cinemax",
+      "logo": "https://assets.livednow.com/logo/Cinemax-West.png"
+    },
+    {
+      "tvid": "1164",
+      "epgid": "CMT",
+      "name": "CMT",
+      "status": "1",
+      "note": "CMT",
+      "logo": "https://assets.livednow.com/logo/CMT.png"
+    },
+    {
+      "tvid": "1165",
+      "epgid": "CNN",
+      "name": "CNN",
+      "status": "1",
+      "note": "CNN",
+      "logo": "https://assets.livednow.com/logo/CNN.png"
+    },
+    {
+      "tvid": "1166",
+      "epgid": "Comedy Central",
+      "name": "Comedy Central",
+      "status": "1",
+      "note": "Comedy Central",
+      "logo": "https://assets.livednow.com/logo/Comedy-Central.png"
+    },
+    {
+      "tvid": "1167",
+      "epgid": "Cooking Channel",
+      "name": "Cooking Channel",
+      "status": "1",
+      "note": "Cooking Channel",
+      "logo": "https://assets.livednow.com/logo/Cooking-Channel.png"
+    },
+    {
+      "tvid": "1168",
+      "epgid": "Crime & Investigation",
+      "name": "Crime & Investigation",
+      "status": "1",
+      "note": "Crime & Investigation",
+      "logo": "https://assets.livednow.com/logo/Crime-And-Investigation.png"
+    },
+    {
+      "tvid": "1169",
+      "epgid": "CSPAN",
+      "name": "CSPAN",
+      "status": "1",
+      "note": "CSPAN",
+      "logo": "https://assets.livednow.com/logo/CSPAN.png"
+    },
+    {
+      "tvid": "1170",
+      "epgid": "CSPAN 2",
+      "name": "CSPAN 2",
+      "status": "1",
+      "note": "CSPAN 2",
+      "logo": "https://assets.livednow.com/logo/CSPAN-2.png"
+    },
+    {
+      "tvid": "1171",
+      "epgid": "Destination America",
+      "name": "Destination America",
+      "status": "1",
+      "note": "Destination America",
+      "logo": "https://assets.livednow.com/logo/Destination-America.png"
+    },
+    {
+      "tvid": "1172",
+      "epgid": "Discovery Family Channel",
+      "name": "Discovery Family Channel",
+      "status": "1",
+      "note": "Discovery Family Channel",
+      "logo": "https://assets.livednow.com/logo/Discovery-Family-Channel.png"
+    },
+    {
+      "tvid": "1173",
+      "epgid": "Disney Channel (East)",
+      "name": "Disney Channel (East)",
+      "status": "1",
+      "note": "Disney Channel (East)",
+      "logo": "https://assets.livednow.com/logo/Disney-Channel.png"
+    },
+    {
+      "tvid": "1174",
+      "epgid": "黃金華劇台",
+      "name": "黃金華劇台",
+      "status": "1",
+      "note": "黃金華劇台",
+      "logo": "https://assets.livednow.com/logo/黃金華劇台.png"
+    },
+    {
+      "tvid": "1175",
+      "epgid": "Disney XD",
+      "name": "Disney XD",
+      "status": "1",
+      "note": "Disney XD",
+      "logo": "https://assets.livednow.com/logo/Disney-XD.png"
+    },
+    {
+      "tvid": "1176",
+      "epgid": "E!",
+      "name": "E!",
+      "status": "1",
+      "note": "E!",
+      "logo": "https://assets.livednow.com/logo/E.png"
+    },
+    {
+      "tvid": "1177",
+      "epgid": "Food Network",
+      "name": "Food Network",
+      "status": "1",
+      "note": "Food Network",
+      "logo": "https://assets.livednow.com/logo/Food-Network.png"
+    },
+    {
+      "tvid": "1178",
+      "epgid": "Fox Business Network",
+      "name": "Fox Business Network",
+      "status": "1",
+      "note": "Fox Business Network",
+      "logo": "https://assets.livednow.com/logo/Fox-Business-Network.png"
+    },
+    {
+      "tvid": "1179",
+      "epgid": "Freeform",
+      "name": "Freeform",
+      "status": "1",
+      "note": "Freeform",
+      "logo": "https://assets.livednow.com/logo/Freeform.png"
+    },
+    {
+      "tvid": "1180",
+      "epgid": "Fuse HD",
+      "name": "Fuse HD",
+      "status": "1",
+      "note": "Fuse HD",
+      "logo": "https://assets.livednow.com/logo/Fuse-HD.png"
+    },
+    {
+      "tvid": "1181",
+      "epgid": "FX",
+      "name": "FX",
+      "status": "1",
+      "note": "FX",
+      "logo": "https://assets.livednow.com/logo/FX.png"
+    },
+    {
+      "tvid": "1182",
+      "epgid": "FX Movie",
+      "name": "FX Movie",
+      "status": "1",
+      "note": "FX Movie",
+      "logo": "https://assets.livednow.com/logo/FX-Movie.png"
+    },
+    {
+      "tvid": "1183",
+      "epgid": "FXX",
+      "name": "FXX",
+      "status": "1",
+      "note": "FXX",
+      "logo": "https://assets.livednow.com/logo/FXX.png"
+    },
+    {
+      "tvid": "1184",
+      "epgid": "FYI",
+      "name": "FYI",
+      "status": "1",
+      "note": "FYI",
+      "logo": "https://assets.livednow.com/logo/FYI.png"
+    },
+    {
+      "tvid": "1185",
+      "epgid": "Hallmark",
+      "name": "Hallmark",
+      "status": "1",
+      "note": "Hallmark",
+      "logo": "https://assets.livednow.com/logo/Hallmark.png"
+    },
+    {
+      "tvid": "1186",
+      "epgid": "Hallmark Drama HD",
+      "name": "Hallmark Drama HD",
+      "status": "1",
+      "note": "Hallmark Drama HD",
+      "logo": "https://assets.livednow.com/logo/Hallmark-Drama-HD.png"
+    },
+    {
+      "tvid": "1187",
+      "epgid": "Hallmark Movies & Mysteries HD",
+      "name": "Hallmark Movies & Mysteries HD",
+      "status": "1",
+      "note": "Hallmark Movies & Mysteries HD",
+      "logo": "https://assets.livednow.com/logo/Hallmark-Movies-And-Mysteries-HD.png"
+    },
+    {
+      "tvid": "1188",
+      "epgid": "HBO 2 East",
+      "name": "HBO 2 East",
+      "status": "1",
+      "note": "HBO 2 East",
+      "logo": "https://assets.livednow.com/logo/HBO-2.png"
+    },
+    {
+      "tvid": "1189",
+      "epgid": "HBO Comedy HD",
+      "name": "HBO Comedy HD",
+      "status": "1",
+      "note": "HBO Comedy HD",
+      "logo": "https://assets.livednow.com/logo/HBO-Comedy-HD.png"
+    },
+    {
+      "tvid": "1190",
+      "epgid": "HBO Family East",
+      "name": "HBO Family East",
+      "status": "1",
+      "note": "HBO Family East",
+      "logo": "https://assets.livednow.com/logo/HBO-Family-East.png"
+    },
+    {
+      "tvid": "1191",
+      "epgid": "HBO Signature",
+      "name": "HBO Signature",
+      "status": "1",
+      "note": "HBO Signature",
+      "logo": "https://assets.livednow.com/logo/HBO-Signature.png"
+    },
+    {
+      "tvid": "1192",
+      "epgid": "HBO Zone HD",
+      "name": "HBO Zone HD",
+      "status": "1",
+      "note": "HBO Zone HD",
+      "logo": "https://assets.livednow.com/logo/HBO-Zone-HD.png"
+    },
+    {
+      "tvid": "1193",
+      "epgid": "HGTV",
+      "name": "HGTV",
+      "status": "1",
+      "note": "HGTV",
+      "logo": "https://assets.livednow.com/logo/HGTV.png"
+    },
+    {
+      "tvid": "1194",
+      "epgid": "HLN",
+      "name": "HLN",
+      "status": "1",
+      "note": "HLN",
+      "logo": "https://assets.livednow.com/logo/HLN.png"
+    },
+    {
+      "tvid": "1195",
+      "epgid": "IFC",
+      "name": "IFC",
+      "status": "1",
+      "note": "IFC",
+      "logo": "https://assets.livednow.com/logo/IFC.png"
+    },
+    {
+      "tvid": "1196",
+      "epgid": "Investigation Discovery",
+      "name": "Investigation Discovery",
+      "status": "1",
+      "note": "Investigation Discovery",
+      "logo": "https://assets.livednow.com/logo/Investigation-Discovery.png"
+    },
+    {
+      "tvid": "1197",
+      "epgid": "ION-Television-East-HD",
+      "name": "ION Television East HD",
+      "status": "1",
+      "note": "ION Television East HD",
+      "logo": "https://assets.livednow.com/logo/ION-Television-East-HD.png"
+    },
+    {
+      "tvid": "1198",
+      "epgid": "Lifetime",
+      "name": "Lifetime",
+      "status": "1",
+      "note": "Lifetime",
+      "logo": "https://assets.livednow.com/logo/Lifetime.png"
+    },
+    {
+      "tvid": "1199",
+      "epgid": "LMN",
+      "name": "Lifetime Movies",
+      "status": "1",
+      "note": "Lifetime Movies",
+      "logo": "https://assets.livednow.com/logo/LMN.png"
+    },
+    {
+      "tvid": "1200",
+      "epgid": "Logo",
+      "name": "Logo",
+      "status": "1",
+      "note": "Logo",
+      "logo": "https://assets.livednow.com/logo/Logo.png"
+    },
+    {
+      "tvid": "1201",
+      "epgid": "MoreMAX",
+      "name": "More MAX",
+      "status": "1",
+      "note": "More MAX",
+      "logo": "https://assets.livednow.com/logo/MoreMAX.png"
+    },
+    {
+      "tvid": "1202",
+      "epgid": "MotorTrend-HD",
+      "name": "Motor Trend HD",
+      "status": "1",
+      "note": "Motor Trend HD",
+      "logo": "https://assets.livednow.com/logo/MotorTrend-HD.png"
+    },
+    {
+      "tvid": "1203",
+      "epgid": "MovieMAX",
+      "name": "MovieMAX",
+      "status": "1",
+      "note": "MovieMAX",
+      "logo": "https://assets.livednow.com/logo/MovieMAX.png"
+    },
+    {
+      "tvid": "1204",
+      "epgid": "MSNBC",
+      "name": "MSNBC",
+      "status": "1",
+      "note": "MSNBC",
+      "logo": "https://assets.livednow.com/logo/MSNBC.png"
+    },
+    {
+      "tvid": "1205",
+      "epgid": "National-Geographic",
+      "name": "National Geographic",
+      "status": "1",
+      "note": "National Geographic",
+      "logo": "https://assets.livednow.com/logo/National-Geographic.png"
+    },
+    {
+      "tvid": "1206",
+      "epgid": "National-Geographic-Wild",
+      "name": "National Geographic Wild",
+      "status": "1",
+      "note": "National Geographic Wild",
+      "logo": "https://assets.livednow.com/logo/National-Geographic-Wild.png"
+    },
+    {
+      "tvid": "1207",
+      "epgid": "Nicktoons",
+      "name": "Nicktoons",
+      "status": "1",
+      "note": "Nicktoons",
+      "logo": "https://assets.livednow.com/logo/Nicktoons.png"
+    },
+    {
+      "tvid": "1208",
+      "epgid": "Outdoor-Channel",
+      "name": "Outdoor Channel",
+      "status": "1",
+      "note": "Outdoor Channel",
+      "logo": "https://assets.livednow.com/logo/Outdoor-Channel.png"
+    },
+    {
+      "tvid": "1209",
+      "epgid": "OWN",
+      "name": "OWN",
+      "status": "1",
+      "note": "OWN",
+      "logo": "https://assets.livednow.com/logo/OWN.png"
+    },
+    {
+      "tvid": "1210",
+      "epgid": "Oxygen-True-Crime",
+      "name": "Oxygen True Crime",
+      "status": "1",
+      "note": "Oxygen True Crime",
+      "logo": "https://assets.livednow.com/logo/Oxygen-True-Crime.png"
+    },
+    {
+      "tvid": "1211",
+      "epgid": "WNET-New-York",
+      "name": "PBS 13 (WNET) New York",
+      "status": "1",
+      "note": "PBS 13 (WNET) New York",
+      "logo": "https://assets.livednow.com/logo/WNET-New-York.png"
+    },
+    {
+      "tvid": "1212",
+      "epgid": "ReelzChannel",
+      "name": "ReelzChannel",
+      "status": "1",
+      "note": "ReelzChannel",
+      "logo": "https://assets.livednow.com/logo/ReelzChannel.png"
+    },
+    {
+      "tvid": "1213",
+      "epgid": "Science",
+      "name": "Science",
+      "status": "1",
+      "note": "Science",
+      "logo": "https://assets.livednow.com/logo/Science.png"
+    },
+    {
+      "tvid": "1214",
+      "epgid": "Showtime-Extreme",
+      "name": "Showtime Extreme",
+      "status": "1",
+      "note": "Showtime Extreme",
+      "logo": "https://assets.livednow.com/logo/Showtime-Extreme.png"
+    },
+    {
+      "tvid": "1215",
+      "epgid": "Showtime-2",
+      "name": "Showtime 2",
+      "status": "1",
+      "note": "Showtime 2",
+      "logo": "https://assets.livednow.com/logo/Showtime-2.png"
+    },
+    {
+      "tvid": "1216",
+      "epgid": "STARZ-East",
+      "name": "STARZ East",
+      "status": "1",
+      "note": "STARZ East",
+      "logo": "https://assets.livednow.com/logo/STARZ-East.png"
+    },
+    {
+      "tvid": "1217",
+      "epgid": "Sundance-TV",
+      "name": "Sundance TV",
+      "status": "1",
+      "note": "Sundance TV",
+      "logo": "https://assets.livednow.com/logo/Sundance-TV.png"
+    },
+    {
+      "tvid": "1218",
+      "epgid": "SYFY",
+      "name": "SYFY",
+      "status": "1",
+      "note": "SYFY",
+      "logo": "https://assets.livednow.com/logo/SYFY.png"
+    },
+    {
+      "tvid": "1219",
+      "epgid": "TBS",
+      "name": "TBS",
+      "status": "1",
+      "note": "TBS",
+      "logo": "https://assets.livednow.com/logo/TBS.png"
+    },
+    {
+      "tvid": "1220",
+      "epgid": "TCM",
+      "name": "TCM",
+      "status": "1",
+      "note": "TCM",
+      "logo": "https://assets.livednow.com/logo/TCM.png"
+    },
+    {
+      "tvid": "1221",
+      "epgid": "TeenNick",
+      "name": "TeenNick",
+      "status": "1",
+      "note": "TeenNick",
+      "logo": "https://assets.livednow.com/logo/TeenNick.png"
+    },
+    {
+      "tvid": "1222",
+      "epgid": "Telemundo-East",
+      "name": "Telemundo East",
+      "status": "1",
+      "note": "Telemundo East",
+      "logo": "https://assets.livednow.com/logo/Telemundo-East.png"
+    },
+    {
+      "tvid": "1223",
+      "epgid": "WPIX-New-York",
+      "name": "The CW (WPIX New York)",
+      "status": "1",
+      "note": "The CW (WPIX New York)",
+      "logo": "https://assets.livednow.com/logo/WPIX-New-York.png"
+    },
+    {
+      "tvid": "1224",
+      "epgid": "The-Movie-Channel-East",
+      "name": "The Movie Channel East",
+      "status": "1",
+      "note": "The Movie Channel East",
+      "logo": "https://assets.livednow.com/logo/The-Movie-Channel-East.png"
+    },
+    {
+      "tvid": "1225",
+      "epgid": "The-Weather-Channel",
+      "name": "The Weather Channel",
+      "status": "1",
+      "note": "The Weather Channel",
+      "logo": "https://assets.livednow.com/logo/The-Weather-Channel.png"
+    },
+    {
+      "tvid": "1226",
+      "epgid": "TLC",
+      "name": "TLC",
+      "status": "1",
+      "note": "TLC",
+      "logo": "https://assets.livednow.com/logo/TLC.png"
+    },
+    {
+      "tvid": "1227",
+      "epgid": "TNT",
+      "name": "TNT",
+      "status": "1",
+      "note": "TNT",
+      "logo": "https://assets.livednow.com/logo/TNT.png"
+    },
+    {
+      "tvid": "1228",
+      "epgid": "Travel-Channel",
+      "name": "Travel Channel",
+      "status": "1",
+      "note": "Travel Channel",
+      "logo": "https://assets.livednow.com/logo/Travel-Channel.png"
+    },
+    {
+      "tvid": "1229",
+      "epgid": "truTV",
+      "name": "truTV",
+      "status": "1",
+      "note": "truTV",
+      "logo": "https://assets.livednow.com/logo/truTV.png"
+    },
+    {
+      "tvid": "1230",
+      "epgid": "TV-One-HD",
+      "name": "TV One HD",
+      "status": "1",
+      "note": "TV One HD",
+      "logo": "https://assets.livednow.com/logo/TV-One-HD.png"
+    },
+    {
+      "tvid": "1231",
+      "epgid": "Universal-Kids",
+      "name": "Universal Kids",
+      "status": "1",
+      "note": "Universal Kids",
+      "logo": "https://assets.livednow.com/logo/Universal-Kids.png"
+    },
+    {
+      "tvid": "1232",
+      "epgid": "Univision-East",
+      "name": "Univision East",
+      "status": "1",
+      "note": "Univision East",
+      "logo": "https://assets.livednow.com/logo/Univision-East.png"
+    },
+    {
+      "tvid": "1233",
+      "epgid": "USA-Network",
+      "name": "USA Network",
+      "status": "1",
+      "note": "USA Network",
+      "logo": "https://assets.livednow.com/logo/USA-Network.png"
+    },
+    {
+      "tvid": "1234",
+      "epgid": "VH1",
+      "name": "VH1",
+      "status": "1",
+      "note": "VH1",
+      "logo": "https://assets.livednow.com/logo/VH1.png"
+    },
+    {
+      "tvid": "1235",
+      "epgid": "VICE",
+      "name": "VICE",
+      "status": "1",
+      "note": "VICE",
+      "logo": "https://assets.livednow.com/logo/VICE.png"
+    },
+    {
+      "tvid": "1236",
+      "epgid": "WABC-New-York-ABC-East",
+      "name": "WABC (New York) ABC East",
+      "status": "1",
+      "note": "WABC (New York) ABC East",
+      "logo": "https://assets.livednow.com/logo/WABC-New-York-ABC-East.png"
+    },
+    {
+      "tvid": "1237",
+      "epgid": "WCBS-New-York-CBS-East",
+      "name": "WCBS (New York) CBS East",
+      "status": "1",
+      "note": "WCBS (New York) CBS East",
+      "logo": "https://assets.livednow.com/logo/WCBS-New-York-CBS-East.png"
+    },
+    {
+      "tvid": "1238",
+      "epgid": "WE-tv",
+      "name": "WE tv",
+      "status": "1",
+      "note": "WE tv",
+      "logo": "https://assets.livednow.com/logo/WE-tv.png"
+    },
+    {
+      "tvid": "1239",
+      "epgid": "WNBC-New-York-NBC-East",
+      "name": "WNBC (New York) NBC East",
+      "status": "1",
+      "note": "WNBC (New York) NBC East",
+      "logo": "https://assets.livednow.com/logo/WNBC-New-York-NBC-East.png"
+    },
+    {
+      "tvid": "1240",
+      "epgid": "WNYW-New-York-FOX-East",
+      "name": "WNYW (New York) FOX East",
+      "status": "1",
+      "note": "WNYW (New York) FOX East",
+      "logo": "https://assets.livednow.com/logo/WNYW-New-York-FOX-East.png"
+    },
+    {
+      "tvid": "1241",
+      "epgid": "亞洲劇台",
+      "name": "亞洲劇台",
+      "status": "1",
+      "note": "亞洲劇台",
+      "logo": "https://assets.livednow.com/logo/亞洲劇台.png"
+    },
+    {
+      "tvid": "1242",
+      "epgid": "娛樂新聞台",
+      "name": "娛樂新聞台",
+      "status": "1",
+      "note": "娛樂新聞台",
+      "logo": "https://assets.livednow.com/logo/娛樂新聞台.png"
+    },
+    {
+      "tvid": "1243",
+      "epgid": "戲曲台",
+      "name": "戲曲台",
+      "status": "1",
+      "note": "戲曲台",
+      "logo": "https://assets.livednow.com/logo/戲曲台.png"
+    },
+    {
+      "tvid": "1244",
+      "epgid": "無線衛星亞洲台",
+      "name": "無線衛星亞洲台",
+      "status": "1",
+      "note": "無線衛星亞洲台",
+      "logo": "https://assets.livednow.com/logo/無線衛星亞洲台.png"
+    },
+    {
+      "tvid": "1245",
+      "epgid": "myTV-SUPER-18",
+      "name": "myTV SUPER 18台",
+      "status": "1",
+      "note": "myTV SUPER 18台",
+      "logo": "https://assets.livednow.com/logo/myTV-SUPER-18.png"
+    },
+    {
+      "tvid": "1246",
+      "epgid": "無線衛星新聞台",
+      "name": "無線衛星新聞台",
+      "status": "1",
+      "note": "無線衛星新聞台",
+      "logo": "https://assets.livednow.com/logo/無線衛星新聞台.png"
+    },
+    {
+      "tvid": "1247",
+      "epgid": "神州新聞台",
+      "name": "神州新聞台",
+      "status": "1",
+      "note": "神州新聞台",
+      "logo": "https://assets.livednow.com/logo/神州新聞台.png"
+    },
+    {
+      "tvid": "1248",
+      "epgid": "粵語片台",
+      "name": "粵語片台",
+      "status": "1",
+      "note": "粵語片台",
+      "logo": "https://assets.livednow.com/logo/粵語片台.png"
+    },
+    {
+      "tvid": "1249",
+      "epgid": "PopC",
+      "name": "PopC",
+      "status": "1",
+      "note": "PopC",
+      "logo": "https://assets.livednow.com/logo/PopC.png"
+    },
+    {
+      "tvid": "1250",
+      "epgid": "SUPER-Kids-Channel",
+      "name": "SUPER Kids",
+      "status": "1",
+      "note": "SUPER Kids",
+      "logo": "https://assets.livednow.com/logo/SUPER-Kids-Channel.png"
+    },
+    {
+      "tvid": "1251",
+      "epgid": "Thrill",
+      "name": "Thrill",
+      "status": "1",
+      "note": "Thrill",
+      "logo": "https://assets.livednow.com/logo/Thrill.png"
+    },
+    {
+      "tvid": "1252",
+      "epgid": "ZooMoo",
+      "name": "ZooMoo",
+      "status": "1",
+      "note": "ZooMoo",
+      "logo": "https://assets.livednow.com/logo/ZooMoo.png"
+    },
+    {
+      "tvid": "1253",
+      "epgid": "FashionBox",
+      "name": "FashionBox",
+      "status": "1",
+      "note": "FashionBox",
+      "logo": "https://assets.livednow.com/logo/FashionBox.png"
+    },
+    {
+      "tvid": "1254",
+      "epgid": "KIX",
+      "name": "KIX",
+      "status": "1",
+      "note": "KIX",
+      "logo": "https://assets.livednow.com/logo/KIX.png"
+    },
+    {
+      "tvid": "1255",
+      "epgid": "MytvSuper",
+      "name": "myTV SUPER FREE",
+      "status": "1",
+      "note": "myTV SUPER FREE",
+      "logo": "https://assets.livednow.com/logo/MytvSuper.png"
+    },
+    {
+      "tvid": "1256",
+      "epgid": "MytvSuper",
+      "name": "互動窗 1",
+      "status": "1",
+      "note": "互動窗 1",
+      "logo": "https://assets.livednow.com/logo/MytvSuper.png"
+    },
+    {
+      "tvid": "1257",
+      "epgid": "MytvSuper",
+      "name": "互動窗 2",
+      "status": "1",
+      "note": "互動窗 2",
+      "logo": "https://assets.livednow.com/logo/MytvSuper.png"
+    },
+    {
+      "tvid": "1258",
+      "epgid": "MytvSuper",
+      "name": "myTV SUPER 直播足球3台",
+      "status": "1",
+      "note": "myTV SUPER 直播足球3台",
+      "logo": "https://assets.livednow.com/logo/MytvSuper.png"
+    },
+    {
+      "tvid": "1259",
+      "epgid": "MytvSuper",
+      "name": "myTV SUPER 直播足球4台",
+      "status": "1",
+      "note": "myTV SUPER 直播足球4台",
+      "logo": "https://assets.livednow.com/logo/MytvSuper.png"
+    },
+    {
+      "tvid": "1260",
+      "epgid": "MytvSuper",
+      "name": "myTV SUPER 直播足球5台",
+      "status": "1",
+      "note": "myTV SUPER 直播足球5台",
+      "logo": "https://assets.livednow.com/logo/MytvSuper.png"
+    },
+    {
+      "tvid": "1261",
+      "epgid": "MytvSuper",
+      "name": "myTV SUPER 直播足球6台",
+      "status": "1",
+      "note": "myTV SUPER 直播足球6台",
+      "logo": "https://assets.livednow.com/logo/MytvSuper.png"
+	},
+    {
+      "tvid": "1262",
+      "epgid": "ELTA日韓",
+      "name": "愛爾達日韓台",
+      "status": "1",
+      "note": "愛爾達日韓台",
+      "logo": "https://assets.livednow.com/logo/ELTA日韓.png"
+    },
+    {
+      "tvid": "1263",
+      "epgid": "ELTA體育-4台",
+      "name": "愛爾達體育4台",
+      "status": "1",
+      "note": "愛爾達體育4台",
+      "logo": "https://assets.livednow.com/logo/ELTA體育-4台.png"
+    },
+    {
+      "tvid": "1264",
+      "epgid": "ELTA體育-MAX1",
+      "name": "愛爾達體育MAX1台",
+      "status": "1",
+      "note": "愛爾達體育MAX1台",
+      "logo": "https://assets.livednow.com/logo/ELTA體育-MAX1.png"
+    },
+    {
+      "tvid": "1265",
+      "epgid": "ELTA體育-MAX2",
+      "name": "愛爾達體育MAX2台",
+      "status": "1",
+      "note": "愛爾達體育MAX2台",
+      "logo": "https://assets.livednow.com/logo/ELTA體育-MAX2.png"
+    },
+    {
+      "tvid": "1266",
+      "epgid": "ELTA體育-MAX3",
+      "name": "愛爾達體育MAX3台",
+      "status": "1",
+      "note": "愛爾達體育MAX3台",
+      "logo": "https://assets.livednow.com/logo/ELTA體育-MAX3.png"
+    },
+    {
+      "tvid": "1267",
+      "epgid": "ELTA體育-MAX4",
+      "name": "愛爾達體育MAX4台",
+      "status": "1",
+      "note": "愛爾達體育MAX4台",
+      "logo": "https://assets.livednow.com/logo/ELTA體育-MAX4.png"
+    },
+    {
+      "tvid": "1268",
+      "epgid": "Hami MLB 台",
+      "name": "Hami MLB 台",
+      "status": "1",
+      "note": "Hami MLB 台",
+      "logo": "https://assets.livednow.com/logo/hami-mlb.png"
+    },
+    {
+      "tvid": "1269",
+      "epgid": "Hami 羽球台",
+      "name": "Hami 羽球台",
+      "status": "1",
+      "note": "Hami 羽球台",
+      "logo": "https://assets.livednow.com/logo/hami-yq.png"
+    },
+    {
+      "tvid": "1270",
+      "epgid": "Hami羽球台",
+      "name": "Hami 羽球台(免費)",
+      "status": "1",
+      "note": "Hami 羽球台(免費)",
+      "logo": "https://assets.livednow.com/logo/hami-yq.png"
+    },
+    {
+      "tvid": "1271",
+      "epgid": "Hami卡通台",
+      "name": "Hami 卡通台(免費)",
+      "status": "1",
+      "note": "Hami 卡通台(免費)",
+      "logo": "https://assets.livednow.com/logo/hami-kt.png"
+    },
+    {
+      "tvid": "1272",
+      "epgid": "Hami日漫台",
+      "name": "Hami 日漫台(免費)",
+      "status": "1",
+      "note": "Hami 日漫台(免費)",
+      "logo": "https://assets.livednow.com/logo/hami-rm.png"
+    },
+    {
+      "tvid": "1273",
+      "epgid": "Hami韓劇台",
+      "name": "Hami 韓劇台",
+      "status": "1",
+      "note": "Hami 韓劇台",
+      "logo": "https://assets.livednow.com/logo/hami-hj.png"
+    },
+    {
+      "tvid": "1274",
+      "epgid": "Hami韓劇台",
+      "name": "Hami 韓劇台(免費)",
+      "status": "1",
+      "note": "Hami 韓劇台(免費)",
+      "logo": "https://assets.livednow.com/logo/hami-hj.png"
+    },
+    {
+      "tvid": "1275",
+      "epgid": "Discovery-DMAX-TW",
+      "name": "Discovery DMAX",
+      "status": "1",
+      "note": "Discovery DMAX",
+      "logo": "https://assets.livednow.com/logo/Discovery-DMAX-TW.png"
+    },
+    {
+      "tvid": "1276",
+      "epgid": "Discovery-EVE-TW",
+      "name": "Discovery EVE",
+      "status": "1",
+      "note": "Discovery EVE",
+      "logo": "https://assets.livednow.com/logo/Discovery-EVE-TW.png"
+    },
+    {
+      "tvid": "1277",
+      "epgid": "INULTRA-TW",
+      "name": "INULTRA",
+      "status": "1",
+      "note": "INULTRA",
+      "logo": "https://assets.livednow.com/logo/INULTRA-TW.png"
+    },
+    {
+      "tvid": "1278",
+      "epgid": "Rock-Extreme",
+      "name": "Rock Extreme",
+      "status": "1",
+      "note": "Rock Extreme",
+      "logo": "https://assets.livednow.com/logo/Rock-Extreme.png"
+    },
+    {
+      "tvid": "1279",
+      "epgid": "中央氣象署影音頻道",
+      "name": "中央氣象署影音頻道",
+      "status": "1",
+      "note": "中央氣象署影音頻道",
+      "logo": "https://i0.hdslb.com/bfs/article/beccdf1f472de482acc194897fe9a0ae39829083.png"
+    },
+    {
+      "tvid": "1280",
+      "epgid": "空中英語教室",
+      "name": "空中英語教室",
+      "status": "1",
+      "note": "空中英語教室",
+      "logo": "https://assets.livednow.com/logo/空中英語教室.png"
+    },
+    {
+      "tvid": "1281",
+      "epgid": "華藝綜合台",
+      "name": "華藝 MBC 綜合台",
+      "status": "1",
+      "note": "華藝 MBC 綜合台",
+      "logo": "https://assets.livednow.com/logo/華藝綜合台.png"
     }
   ]
 }
